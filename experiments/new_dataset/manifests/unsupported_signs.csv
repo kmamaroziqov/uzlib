@@ -1,0 +1,1766 @@
+sign_id,label_uz,label_ru,category,category_ru,sign_type,reason
+sgn_00002041,viloyat,область,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002076,yorliq,ярлык,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002077,tashqi,внешний,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002081,bilim,знание,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002082,tahririyat,редакция,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002084,sanoat,промышленность,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002087,ichida,внутри,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002088,komissiya,комиссия,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002090,asosiy,основной,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002093,ma'muriyat,администрация,joy_nomlari,места_названия,isolated,no_samples
+sgn_00002094,kirish,вход_/_войти,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002099,qarshi,против,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002100,axlat,мусор,mahalla,махалля,isolated,no_samples
+sgn_00002101,axlat_tashlamoq,выбрасывать_мусор,mahalla,махалля,isolated,no_samples
+sgn_00002106,boshqalar,другие,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002107,bo'lmadi,не_получилось_/_нельзя,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002108,istalgan,любой_/_желаемый,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002109,jonlantirish_-_reanimatsiya,оживление_-_реанимация,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002113,bo'lib_turadi,находится_/_бывает,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002114,belgilamoq,отмечать_/_определять,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002115,xo'jalik,хозяйство,mahalla,махалля,isolated,no_samples
+sgn_00002116,xavfsizlik,безопасность,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002117,instagram_facebook,инстаграм_фейсбук,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002118,buyuk_britaniya,великобритания,joy_nomlari,места_названия,isolated,no_samples
+sgn_00002119,dubay,Дубай,joy_nomlari,места_названия,isolated,no_samples
+sgn_00002120,band,занят_/_занятый,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002121,emas,не_является_/_нет,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002122,hibsga_olmoq,арестовывать,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002123,ruhiy_kasal,психически_больной,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002124,psix,псих,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002125,xavfsiz,безопасный,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002126,umuman,вообще,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002129,bormi_yoki_yo'qmi,есть_или_нет,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002130,qator,ряд_/_очередь,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002132,mos,подходящий_/_соответствующий,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002135,klip,клип,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002137,pirojki,пирожки,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002160,qo'ymoq,класть,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002162,haydashmoq,ехать_(вести_машину),kerak_emas,не_нужно,isolated,no_samples
+sgn_00002163,chiqmoq,выходить,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002167,mehmon_chaqirmoq,приглашать_гостей,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002179,kirib_kelmoq,заходить,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002182,ko'rishmoq,видеться,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002183,do'stlashmoq,дружить,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002189,dalda_bermoq,подбадривать,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002190,tasalli_bermoq,утешать,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002191,quchoqlamoq,обнимать,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002192,o'pmoq,целовать,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002193,silamoq,гладить_(ласкать),kerak_emas,не_нужно,isolated,no_samples
+sgn_00002195,non_yemoq,есть_хлеб,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002196,choy_ichmoq,пить_чай,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002197,kechki_ovqat_yemoq,ужинать,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002198,ertalab_turmoq,вставать_утром,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002199,ishga_bormoq,идти_на_работу,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002200,uyga_qaytmoq,возвращаться_домой,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002201,dam_olmoq,отдыхать,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002202,sport_qilmoq,заниматься_спортом,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002205,televizor_ko'rmoq,смотреть_телевизор,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002206,musiqa_tinglashmoq,слушать_музыку,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002207,o'yin_o'ynashmoq,играть_в_игру,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002208,do'stlar_bilan_o'tirmoq,сидеть_с_друзьями,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002209,qahva_ichmoq,пить_кофе,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002210,mashina_yuvmoq,мыть_машину,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002211,bozorga_bormoq,идти_на_рынок,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002212,do'konga_kirmoq,заходить_в_магазин,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002213,narx_so'ramoq,спрашивать_цену,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002214,pul_hisoblashmoq,считать_деньги,kerak_emas,не_нужно,isolated,no_samples
+sgn_00002215,orasida,между,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002216,norozilik,недовольство,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002217,savol-javob,вопрос-ответ,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002218,bajarmoq,выполнять,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002219,afsus,жаль,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002220,afsuslanmoq,сожалеть,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002221,namoyish,демонстрация,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002222,ta'sir,влияние,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002223,davomida,в_течение,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002224,davom_etmoq,продолжать,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002225,ko'proq,больше,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002226,ma'no,смысл,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002227,hamon,всё_ещё,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002228,taqdirlamoq,награждать,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002237,qatnamoq,участвовать,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002238,aralash,смешанный,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002239,yupatmoq,утешать,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002240,ikkinchi_o'rin,второе_место,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002241,uchunchi_o'rin,третье_место,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002242,homiy,спонсор,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002243,texnika,техника,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002244,qizil_kartochka,красная_карточка,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002245,sariq_kartochka,жёлтая_карточка,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002246,yangilash,обновление,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002247,pumse,пумсе,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002248,belbog',пояс,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002249,o'chirmaslik,не_удалять,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002250,hozircha,пока_что,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002251,xarajat,расход,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002252,devor_qurmoq,строить_стену,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002253,tagida,под_(чем-либо),jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002254,haj,хадж,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002255,umra,умра,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002256,tadbirkorlik,предпринимательство,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002257,raqamli,цифровой,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002258,ta'minmoq,обеспечивать,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002259,muhokama,обсуждение,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002260,aloqalar,связи,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002261,bir_nechta,несколько,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002262,qoidabuzarlik,нарушение_правил,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002263,elchi,посол,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002264,cheklov,ограничение,jumla_buyicha_so'zlar,слова_из_предложения,isolated,no_samples
+sgn_00002266,"assalomu_alaykum,_yaxshi_kuningiz","ассаламу алейкум, хорошего вам дня",jumlalar,предложения,continuous,no_samples
+sgn_00002267,"va_alaykum_assalom,_qandaysiz","ва алейкум ассалам, как вы",jumlalar,предложения,continuous,no_samples
+sgn_00002268,"xayr,_ertaga_ko'rishguncha","до свидания, до завтрашней встречи",jumlalar,предложения,continuous,no_samples
+sgn_00002269,"yaxshi_tong,_bugun_nima_rejalaringiz_bor","доброе утро, какие у вас планы на сегодня",jumlalar,предложения,continuous,no_samples
+sgn_00002270,"yaxshi_kech,_xayrli_tun_tilayman","добрый вечер, желаю спокойной ночи",jumlalar,предложения,continuous,no_samples
+sgn_00002271,"ko'rishguncha,_o'zingizga_ehtiyot_bo'ling","до встречи, берегите себя",jumlalar,предложения,continuous,no_samples
+sgn_00002272,"qandaysiz,_bugun_yaxshimisiz","как вы, сегодня хорошо ли у вас",jumlalar,предложения,continuous,no_samples
+sgn_00002273,yaxshi_kuningiz_bo'lsin,пусть у вас будет хороший день,jumlalar,предложения,continuous,no_samples
+sgn_00002274,"xush_kelibsiz,_uyimizga_marhamat","добро пожаловать, милости просим в наш дом",jumlalar,предложения,continuous,no_samples
+sgn_00002275,"rahmat,_sizga_ham_yaxshi_kun","спасибо, вам тоже хорошего дня",jumlalar,предложения,continuous,no_samples
+sgn_00002276,"kechirasiz,_sizni_bezovta_qildim","извините, я вас побеспокоил",jumlalar,предложения,continuous,no_samples
+sgn_00002277,"marhamat,_ichkariga_kiring","пожалуйста, заходите внутрь",jumlalar,предложения,continuous,no_samples
+sgn_00002278,"hozir_iltimos,_o'tiring","сейчас пожалуйста, садитесь",jumlalar,предложения,continuous,no_samples
+sgn_00002279,"xayr,_yo'lingiz_bexatar_bo'lsin","до свидания, пусть дорога будет безопасной",jumlalar,предложения,continuous,no_samples
+sgn_00002280,"ertaga_ko'rishamiz,_xayr","увидимся завтра, до свидания",jumlalar,предложения,continuous,no_samples
+sgn_00002281,yaxshi_dam_oling,хорошо отдохните,jumlalar,предложения,continuous,no_samples
+sgn_00002282,sizni_ko'rganimdan_xursandman,рад вас видеть,jumlalar,предложения,continuous,no_samples
+sgn_00002283,uzoq_vaqt_ko'rishmadik,мы давно не виделись,jumlalar,предложения,continuous,no_samples
+sgn_00002284,qanday_o'tdi_kuningiz,как прошёл ваш день,jumlalar,предложения,continuous,no_samples
+sgn_00002285,bugun_juda_yaxshi_kun,сегодня очень хороший день,jumlalar,предложения,continuous,no_samples
+sgn_00002286,tun_yaxshi_o'tsin,пусть ночь пройдёт хорошо,jumlalar,предложения,continuous,no_samples
+sgn_00002287,sizni_kutib_qolgan_edik,мы вас ждали,jumlalar,предложения,continuous,no_samples
+sgn_00002288,xayrli_tong_tilayman,желаю доброго утра,jumlalar,предложения,continuous,no_samples
+sgn_00002289,hozir_kechqurun_ko'rishguncha,сейчас до встречи вечером,jumlalar,предложения,continuous,no_samples
+sgn_00002290,yana_ko'rishamiz_deb_umid_qilaman,"надеюсь, мы ещё увидимся",jumlalar,предложения,continuous,no_samples
+sgn_00002291,siz_bilan_tanishganimdan_xursandman,рад познакомиться с вами,jumlalar,предложения,continuous,no_samples
+sgn_00002292,"ismingiz_nima,_iltimos","как вас зовут, пожалуйста",jumlalar,предложения,continuous,no_samples
+sgn_00002293,men_sizni_yaxshi_ko'raman,я вас люблю,jumlalar,предложения,continuous,no_samples
+sgn_00002294,do'stlarim_bilan_salomlashdim,я поздоровался с друзьями,jumlalar,предложения,continuous,no_samples
+sgn_00002295,telefonda_do'stim_bilan_gaplashdim,я поговорил с другом по телефону,jumlalar,предложения,continuous,no_samples
+sgn_00002296,hozir_mehmonlarimiz_kelishdi,сейчас наши гости пришли,jumlalar,предложения,continuous,no_samples
+sgn_00002297,mehmonlarni_kutib_oldik,мы встретили гостей,jumlalar,предложения,continuous,no_samples
+sgn_00002298,uyga_qaytib_keldim,я вернулся домой,jumlalar,предложения,continuous,no_samples
+sgn_00002299,ishdan_keyin_dam_olaman,после работы я отдыхаю,jumlalar,предложения,continuous,no_samples
+sgn_00002300,bugun_kechqurun_uchrashamiz,сегодня вечером мы встретимся,jumlalar,предложения,continuous,no_samples
+sgn_00002301,ertalab_erta_turdim,утром я рано встал,jumlalar,предложения,continuous,no_samples
+sgn_00002302,tushlik_vaqtida_dam_oldim,в обеденное время я отдохнул,jumlalar,предложения,continuous,no_samples
+sgn_00002303,kechki_ovqatdan_keyin_sayr_qildim,после ужина я погулял,jumlalar,предложения,continuous,no_samples
+sgn_00002304,do'stlarim_bilan_uchrashdim,я встретился с друзьями,jumlalar,предложения,continuous,no_samples
+sgn_00002305,sinfdoshlarim_bilan_ko'rishdim,я увидел одноклассников,jumlalar,предложения,continuous,no_samples
+sgn_00002306,qo'shnim_bilan_salomlashdim,я поздоровался с соседом,jumlalar,предложения,continuous,no_samples
+sgn_00002307,bolalar_bog'chaga_ketishdi,дети ушли в детский сад,jumlalar,предложения,continuous,no_samples
+sgn_00002308,maktabga_borish_vaqti_keldi,пришло время идти в школу,jumlalar,предложения,continuous,no_samples
+sgn_00002309,ishga_kech_qoldim,я опоздал на работу,jumlalar,предложения,continuous,no_samples
+sgn_00002310,"kechirasiz,_kech_qoldim","извините, я опоздал",jumlalar,предложения,continuous,no_samples
+sgn_00002311,"rahmat,_yordamingiz_uchun",спасибо за вашу помощь,jumlalar,предложения,continuous,no_samples
+sgn_00002312,hozir_juda_minnatdorman,сейчас я очень благодарен,jumlalar,предложения,continuous,no_samples
+sgn_00002313,hech_qisi_yo'q,ничего страшного,jumlalar,предложения,continuous,no_samples
+sgn_00002314,hozir_muammo_yo'q,сейчас нет проблем,jumlalar,предложения,continuous,no_samples
+sgn_00002315,"albatta,_yordam_beraman","конечно, я помогу",jumlalar,предложения,continuous,no_samples
+sgn_00002316,"xohlasangiz,_yordam_bera_olaman","если хотите, я могу помочь",jumlalar,предложения,continuous,no_samples
+sgn_00002317,sizga_qanday_yordam_bera_olaman,чем я могу вам помочь,jumlalar,предложения,continuous,no_samples
+sgn_00002318,"bir_daqiqa_kuting,_iltimos","подождите минуту, пожалуйста",jumlalar,предложения,continuous,no_samples
+sgn_00002319,hozir_hozir_kelaman,сейчас сейчас приду,jumlalar,предложения,continuous,no_samples
+sgn_00002320,bir_ozdan_keyin_qaytaman,вернусь через немного,jumlalar,предложения,continuous,no_samples
+sgn_00002321,hozir_sizni_eshitmayapman,сейчас я вас не слышу,jumlalar,предложения,continuous,no_samples
+sgn_00002322,"qayta_ayting,_iltimos","повторите, пожалуйста",jumlalar,предложения,continuous,no_samples
+sgn_00002323,"tushunmadim,_yana_ayting","не понял, скажите ещё раз",jumlalar,предложения,continuous,no_samples
+sgn_00002324,"hozir_tushundim,_rahmat","сейчас понял, спасибо",jumlalar,предложения,continuous,no_samples
+sgn_00002325,"ha,_to'g'ri_aytdingiz","да, вы правильно сказали",jumlalar,предложения,continuous,no_samples
+sgn_00002326,"yo'q,_bu_noto'g'ri","нет, это неправильно",jumlalar,предложения,continuous,no_samples
+sgn_00002327,balki_keyinroq_gaplashamiz,"может быть, поговорим позже",jumlalar,предложения,continuous,no_samples
+sgn_00002328,hozir_hozir_bandman,сейчас сейчас я занят,jumlalar,предложения,continuous,no_samples
+sgn_00002329,keyinroq_qo'ng'iroq_qilaman,позвоню позже,jumlalar,предложения,continuous,no_samples
+sgn_00002330,hozir_xabar_yuboring,сейчас отправьте сообщение,jumlalar,предложения,continuous,no_samples
+sgn_00002331,hozir_telegramdan_yozing,сейчас напишите в телеграм,jumlalar,предложения,continuous,no_samples
+sgn_00002332,hozir_manzilni_yuboring,сейчас отправьте адрес,jumlalar,предложения,continuous,no_samples
+sgn_00002333,hozir_qayerdasiz_hozir,сейчас где вы сейчас,jumlalar,предложения,continuous,no_samples
+sgn_00002334,men_uyda_turibman,я дома,jumlalar,предложения,continuous,no_samples
+sgn_00002335,hozir_yo'lda_turibman,сейчас я в пути,jumlalar,предложения,continuous,no_samples
+sgn_00002336,tez_orada_yetib_boraman,скоро прибуду,jumlalar,предложения,continuous,no_samples
+sgn_00002337,"kutib_turing,_iltimos","подождите, пожалуйста",jumlalar,предложения,continuous,no_samples
+sgn_00002338,"sabr_qiling,_tez_orada","потерпите, скоро",jumlalar,предложения,continuous,no_samples
+sgn_00002339,yaxshi_yangiliklar_bormi,есть хорошие новости,jumlalar,предложения,continuous,no_samples
+sgn_00002340,hozir_hammasi_yaxshi,сейчас всё хорошо,jumlalar,предложения,continuous,no_samples
+sgn_00002341,hozir_hammasi_joyida,сейчас всё в порядке,jumlalar,предложения,continuous,no_samples
+sgn_00002342,hozir_xavotir_olmang,сейчас не беспокойтесь,jumlalar,предложения,continuous,no_samples
+sgn_00002343,o'zingizga_g'amxo'rlik_qiling,заботьтесь о себе,jumlalar,предложения,continuous,no_samples
+sgn_00002344,hozir_sog'_bo'ling,сейчас будьте здоровы,jumlalar,предложения,continuous,no_samples
+sgn_00002345,hozir_omadingiz_bersin,сейчас пусть вам повезёт,jumlalar,предложения,continuous,no_samples
+sgn_00002346,hozir_muvaffaqiyatlar_tilayman,сейчас желаю успехов,jumlalar,предложения,continuous,no_samples
+sgn_00002347,"tabriklayman,_bayramingiz_bilan",поздравляю с праздником,jumlalar,предложения,continuous,no_samples
+sgn_00002348,tug'ilgan_kuningiz_bilan,с днём рождения,jumlalar,предложения,continuous,no_samples
+sgn_00002349,yangi_yil_bilan,с новым годом,jumlalar,предложения,continuous,no_samples
+sgn_00002350,ramazon_hayiti_muborak,поздравляю с праздником Рамазан,jumlalar,предложения,continuous,no_samples
+sgn_00002351,qurbon_hayiti_muborak,поздравляю с праздником Курбан,jumlalar,предложения,continuous,no_samples
+sgn_00002352,navro'z_bayrami_bilan,с праздником Навруз,jumlalar,предложения,continuous,no_samples
+sgn_00002353,to'yga_taklif_qilganingiz_uchun_rahmat,спасибо за приглашение на свадьбу,jumlalar,предложения,continuous,no_samples
+sgn_00002354,hozir_marosimga_keling,сейчас приходите на церемонию,jumlalar,предложения,continuous,no_samples
+sgn_00002355,tadbir_juda_chiroyli_o'tdi,мероприятие прошло очень красиво,jumlalar,предложения,continuous,no_samples
+sgn_00002356,hozir_ko'rishganimizdan_xursandman,сейчас рад нашей встрече,jumlalar,предложения,continuous,no_samples
+sgn_00002357,hozir_yana_uchrashamiz,сейчас мы ещё встретимся,jumlalar,предложения,continuous,no_samples
+sgn_00002358,"xayr,_sog'_bo'ling","до свидания, будьте здоровы",jumlalar,предложения,continuous,no_samples
+sgn_00002359,ertaga_telefon_qilaman,завтра позвоню,jumlalar,предложения,continuous,no_samples
+sgn_00002360,bugun_juda_band_edim,сегодня я был очень занят,jumlalar,предложения,continuous,no_samples
+sgn_00002361,hozir_kechqurun_bo'shman,сейчас вечером я свободен,jumlalar,предложения,continuous,no_samples
+sgn_00002362,ertaga_ertalab_uchrashamizmi,встретимся завтра утром,jumlalar,предложения,continuous,no_samples
+sgn_00002363,soat_nechida_uchrashamiz,в котором часу встретимся,jumlalar,предложения,continuous,no_samples
+sgn_00002364,poyezd_stantsiyada_kutib_turing,ждите на вокзале,jumlalar,предложения,continuous,no_samples
+sgn_00002365,mening_otam_fermer,мой отец фермер,jumlalar,предложения,continuous,no_samples
+sgn_00002366,mening_onam_o'qituvchi,моя мать учительница,jumlalar,предложения,continuous,no_samples
+sgn_00002367,akam_universitetda_o'qiydi,мой брат учится в университете,jumlalar,предложения,continuous,no_samples
+sgn_00002368,opam_shifokor_bo'lib_ishlaydi,моя сестра работает врачом,jumlalar,предложения,continuous,no_samples
+sgn_00002369,bobom_qishloqda_yashaydi,мой дедушка живёт в деревне,jumlalar,предложения,continuous,no_samples
+sgn_00002370,hozir_buvisi_nafaqada,сейчас моя бабушка на пенсии,jumlalar,предложения,continuous,no_samples
+sgn_00002371,men_ikki_farzandli_otaman,я отец двоих детей,jumlalar,предложения,continuous,no_samples
+sgn_00002372,mening_oilam_katta,моя семья большая,jumlalar,предложения,continuous,no_samples
+sgn_00002373,singlim_maktabda_o'qiydi,моя сестрёнка учится в школе,jumlalar,предложения,continuous,no_samples
+sgn_00002374,ukam_futbol_o'ynaydi,мой младший брат играет в футбол,jumlalar,предложения,continuous,no_samples
+sgn_00002375,men_turmush_o'rtog'im_bilan_yashayman,я живу с супругой,jumlalar,предложения,continuous,no_samples
+sgn_00002376,qizim_bog'chaga_boradi,моя дочь ходит в садик,jumlalar,предложения,continuous,no_samples
+sgn_00002377,o'g'lim_maktabga_bordi,мой сын пошёл в школу,jumlalar,предложения,continuous,no_samples
+sgn_00002378,nevaralarim_meni_juda_yaxshi_ko'radi,внуки очень любят меня,jumlalar,предложения,continuous,no_samples
+sgn_00002379,men_oilamni_yaxshi_ko'raman,я люблю свою семью,jumlalar,предложения,continuous,no_samples
+sgn_00002380,akam_bilan_do'stmiz,мы с братом друзья,jumlalar,предложения,continuous,no_samples
+sgn_00002381,opam_bilan_gaplashdim,я поговорила с сестрой,jumlalar,предложения,continuous,no_samples
+sgn_00002382,oilam_har_hafta_yig'iladi,семья собирается каждую неделю,jumlalar,предложения,continuous,no_samples
+sgn_00002383,men_katta_oiladanman,я из большой семьи,jumlalar,предложения,continuous,no_samples
+sgn_00002384,men_yolg'iz_farzandman,я единственный ребёнок,jumlalar,предложения,continuous,no_samples
+sgn_00002385,mening_oilamda_beshta_odam_bor,в моей семье пять человек,jumlalar,предложения,continuous,no_samples
+sgn_00002386,bobom_va_buvim_biz_bilan_yashaydi,дедушка и бабушка живут с нами,jumlalar,предложения,continuous,no_samples
+sgn_00002387,bugun_men_o'g'ilman,сегодня я сын,jumlalar,предложения,continuous,no_samples
+sgn_00002388,bugun_men_qizman,сегодня я дочь,jumlalar,предложения,continuous,no_samples
+sgn_00002389,bugun_men_erkakman,сегодня я мужчина,jumlalar,предложения,continuous,no_samples
+sgn_00002390,bugun_men_ayolman,сегодня я женщина,jumlalar,предложения,continuous,no_samples
+sgn_00002391,men_yosh_bolaman,я маленький ребёнок,jumlalar,предложения,continuous,no_samples
+sgn_00002392,bugun_men_kattalar,сегодня я взрослый,jumlalar,предложения,continuous,no_samples
+sgn_00002393,men_o'n_besh_yoshdaman,мне пятнадцать лет,jumlalar,предложения,continuous,no_samples
+sgn_00002394,men_yigirma_yoshdaman,мне двадцать лет,jumlalar,предложения,continuous,no_samples
+sgn_00002395,men_qari_odamman,я пожилой человек,jumlalar,предложения,continuous,no_samples
+sgn_00002396,bu_mening_do'stim,это мой друг,jumlalar,предложения,continuous,no_samples
+sgn_00002397,bu_mening_qo'shnim,это мой сосед,jumlalar,предложения,continuous,no_samples
+sgn_00002398,u_mening_ustozim,он мой учитель,jumlalar,предложения,continuous,no_samples
+sgn_00002399,u_mening_shogirdim,он мой ученик,jumlalar,предложения,continuous,no_samples
+sgn_00002400,bugun_men_hamshiraman,сегодня я медсестра,jumlalar,предложения,continuous,no_samples
+sgn_00002401,bugun_men_muhandisman,сегодня я инженер,jumlalar,предложения,continuous,no_samples
+sgn_00002402,bugun_men_dasturchiman,сегодня я программист,jumlalar,предложения,continuous,no_samples
+sgn_00002403,bugun_men_haydovchiman,сегодня я водитель,jumlalar,предложения,continuous,no_samples
+sgn_00002404,bugun_men_sotuvchiman,сегодня я продавец,jumlalar,предложения,continuous,no_samples
+sgn_00002405,bugun_men_oshpazman,сегодня я повар,jumlalar,предложения,continuous,no_samples
+sgn_00002406,bugun_men_talabaman,сегодня я студент,jumlalar,предложения,continuous,no_samples
+sgn_00002407,bugun_men_o'qituvchiman,сегодня я учитель,jumlalar,предложения,continuous,no_samples
+sgn_00002408,bugun_men_shifokorman,сегодня я врач,jumlalar,предложения,continuous,no_samples
+sgn_00002409,bugun_men_fermerman,сегодня я фермер,jumlalar,предложения,continuous,no_samples
+sgn_00002410,bugun_men_rassomman,сегодня я художник,jumlalar,предложения,continuous,no_samples
+sgn_00002411,bugun_men_musiqachiman,сегодня я музыкант,jumlalar,предложения,continuous,no_samples
+sgn_00002412,bugun_men_sportchiman,сегодня я спортсмен,jumlalar,предложения,continuous,no_samples
+sgn_00002413,bugun_men_tadbirkorman,сегодня я предприниматель,jumlalar,предложения,continuous,no_samples
+sgn_00002414,bugun_men_xodimman,сегодня я сотрудник,jumlalar,предложения,continuous,no_samples
+sgn_00002415,bugun_men_rahbar,сегодня я руководитель,jumlalar,предложения,continuous,no_samples
+sgn_00002416,u_yaxshi_odam,он хороший человек,jumlalar,предложения,continuous,no_samples
+sgn_00002417,u_mehribon_ayol,она добрая женщина,jumlalar,предложения,continuous,no_samples
+sgn_00002418,bolalar_bog'chada_o'ynayapti,дети играют в садике,jumlalar,предложения,continuous,no_samples
+sgn_00002419,yoshlar_sport_maydonchasida,молодёжь на спортивной площадке,jumlalar,предложения,continuous,no_samples
+sgn_00002420,qari_odamlar_bog'da_o'tiradi,пожилые люди сидят в парке,jumlalar,предложения,continuous,no_samples
+sgn_00002421,men_yangi_odam_bilan_tanishdim,я познакомился с новым человеком,jumlalar,предложения,continuous,no_samples
+sgn_00002422,u_mening_yaqin_do'stim,он мой близкий друг,jumlalar,предложения,continuous,no_samples
+sgn_00002423,biz_yillar_davomida_do'stmiz,мы друзья много лет,jumlalar,предложения,continuous,no_samples
+sgn_00002424,men_singlimni_yordam_beraman,я помогаю сестре,jumlalar,предложения,continuous,no_samples
+sgn_00002425,men_oilam_uchun_ishlayman,я работаю для семьи,jumlalar,предложения,continuous,no_samples
+sgn_00002426,men_turmush_qurdim,я женился,jumlalar,предложения,continuous,no_samples
+sgn_00002427,men_to'y_qildim,я сыграл свадьбу,jumlalar,предложения,continuous,no_samples
+sgn_00002428,men_farzand_ko'rishni_xohlayman,я хочу иметь детей,jumlalar,предложения,continuous,no_samples
+sgn_00002429,mening_qizim_o'n_yoshda,моей дочери десять лет,jumlalar,предложения,continuous,no_samples
+sgn_00002430,mening_o'g'lim_yetti_yoshda,моему сыну семь лет,jumlalar,предложения,continuous,no_samples
+sgn_00002431,hozir_bola_yig'layapti,сейчас ребёнок плачет,jumlalar,предложения,continuous,no_samples
+sgn_00002432,men_bolani_tinchlantirdim,я успокоил ребёнка,jumlalar,предложения,continuous,no_samples
+sgn_00002433,hozir_bola_uxlayapti,сейчас ребёнок спит,jumlalar,предложения,continuous,no_samples
+sgn_00002434,men_bolani_bog'chaga_olib_bordim,я отвёл ребёнка в садик,jumlalar,предложения,continuous,no_samples
+sgn_00002435,oilam_bilan_kechki_ovqat_yedim,я поужинал с семьёй,jumlalar,предложения,continuous,no_samples
+sgn_00002436,biz_birga_televizor_ko'rdik,мы вместе смотрели телевизор,jumlalar,предложения,continuous,no_samples
+sgn_00002437,men_qo'lni_yuvdim,я помыл руки,jumlalar,предложения,continuous,no_samples
+sgn_00002438,men_tishlarimni_tozaladim,я почистил зубы,jumlalar,предложения,continuous,no_samples
+sgn_00002439,men_sochlarimni_taradim,я расчесал волосы,jumlalar,предложения,continuous,no_samples
+sgn_00002440,men_kiyim_kiydim,я оделся,jumlalar,предложения,continuous,no_samples
+sgn_00002441,men_maktab_formasini_kiydim,я надел школьную форму,jumlalar,предложения,continuous,no_samples
+sgn_00002442,men_sumkani_oldim,я взял сумку,jumlalar,предложения,continuous,no_samples
+sgn_00002443,men_eshikni_yopdim,я закрыл дверь,jumlalar,предложения,continuous,no_samples
+sgn_00002444,men_chiroqni_yoqdim,я включил свет,jumlalar,предложения,continuous,no_samples
+sgn_00002445,men_televizorni_o'chirdim,я выключил телевизор,jumlalar,предложения,continuous,no_samples
+sgn_00002446,men_kompyuterni_yoqdim,я включил компьютер,jumlalar,предложения,continuous,no_samples
+sgn_00002447,men_telefonimni_zaryadladim,я зарядил телефон,jumlalar,предложения,continuous,no_samples
+sgn_00002448,men_xabar_yubordim,я отправил сообщение,jumlalar,предложения,continuous,no_samples
+sgn_00002449,men_rasmga_tushdim,я сфотографировался,jumlalar,предложения,continuous,no_samples
+sgn_00002450,men_kitob_o'qidim,я прочитал книгу,jumlalar,предложения,continuous,no_samples
+sgn_00002451,men_musiqa_tingladim,я слушал музыку,jumlalar,предложения,continuous,no_samples
+sgn_00002452,men_film_ko'rdim,я посмотрел фильм,jumlalar,предложения,continuous,no_samples
+sgn_00002453,men_o'yin_o'ynadim,я играл в игру,jumlalar,предложения,continuous,no_samples
+sgn_00002454,men_sport_bilan_shug'ullandim,я занимался спортом,jumlalar,предложения,continuous,no_samples
+sgn_00002455,bugun_men_yugurdim,сегодня я побегал,jumlalar,предложения,continuous,no_samples
+sgn_00002456,men_har_kuni_erta_turaman,я каждый день рано встаю,jumlalar,предложения,continuous,no_samples
+sgn_00002457,ertalab_nonushta_qilaman,утром я завтракаю,jumlalar,предложения,continuous,no_samples
+sgn_00002458,men_choy_ichaman,я пью чай,jumlalar,предложения,continuous,no_samples
+sgn_00002459,men_sut_ichdim,я выпил молоко,jumlalar,предложения,continuous,no_samples
+sgn_00002460,men_non_yedim,я съел хлеб,jumlalar,предложения,continuous,no_samples
+sgn_00002461,men_tushlik_qildim,я пообедал,jumlalar,предложения,continuous,no_samples
+sgn_00002462,men_kechki_ovqat_yedim,я поужинал,jumlalar,предложения,continuous,no_samples
+sgn_00002463,men_ovqat_tayyorladim,я приготовил еду,jumlalar,предложения,continuous,no_samples
+sgn_00002464,men_gaz_yondirdim,я включил газ,jumlalar,предложения,continuous,no_samples
+sgn_00002465,men_suv_qaynatdim,я вскипятил воду,jumlalar,предложения,continuous,no_samples
+sgn_00002466,men_idishlarni_yuvdim,я помыл посуду,jumlalar,предложения,continuous,no_samples
+sgn_00002467,men_stolni_tozaladim,я убрал стол,jumlalar,предложения,continuous,no_samples
+sgn_00002468,bugun_men_yuvindim,сегодня я помылся,jumlalar,предложения,continuous,no_samples
+sgn_00002469,men_dush_qabul_qildim,я принял душ,jumlalar,предложения,continuous,no_samples
+sgn_00002470,men_yuzimni_yuvdim,я умыл лицо,jumlalar,предложения,continuous,no_samples
+sgn_00002471,men_kiyim_tanladim,я выбрал одежду,jumlalar,предложения,continuous,no_samples
+sgn_00002472,men_poyafzal_kiydim,я надел обувь,jumlalar,предложения,continuous,no_samples
+sgn_00002473,men_uyga_chiqdim,я вышел из дома,jumlalar,предложения,continuous,no_samples
+sgn_00002474,men_avtobusga_mindim,я сел в автобус,jumlalar,предложения,continuous,no_samples
+sgn_00002475,men_metroga_tushdim,я спустился в метро,jumlalar,предложения,continuous,no_samples
+sgn_00002476,men_taksi_chaqirdim,я вызвал такси,jumlalar,предложения,continuous,no_samples
+sgn_00002477,men_piyoda_yurdim,я пошёл пешком,jumlalar,предложения,continuous,no_samples
+sgn_00002478,men_ishga_bordim,я пошёл на работу,jumlalar,предложения,continuous,no_samples
+sgn_00002479,men_maktabga_bordim,я пошёл в школу,jumlalar,предложения,continuous,no_samples
+sgn_00002480,men_do'konga_bordim,я пошёл в магазин,jumlalar,предложения,continuous,no_samples
+sgn_00002481,men_bozorga_bordim,я пошёл на базар,jumlalar,предложения,continuous,no_samples
+sgn_00002482,men_bog'ga_bordim,я пошёл в парк,jumlalar,предложения,continuous,no_samples
+sgn_00002483,men_kutubxonaga_bordim,я пошёл в библиотеку,jumlalar,предложения,continuous,no_samples
+sgn_00002484,men_kasalxonaga_bordim,я пошёл в больницу,jumlalar,предложения,continuous,no_samples
+sgn_00002485,men_bankka_bordim,я пошёл в банк,jumlalar,предложения,continuous,no_samples
+sgn_00002486,men_pochtaga_bordim,я пошёл на почту,jumlalar,предложения,continuous,no_samples
+sgn_00002487,men_ishda_edim,я был на работе,jumlalar,предложения,continuous,no_samples
+sgn_00002488,men_maktabda_edim,я был в школе,jumlalar,предложения,continuous,no_samples
+sgn_00002489,men_uyda_edim,я был дома,jumlalar,предложения,continuous,no_samples
+sgn_00002490,men_tushlik_vaqtida_dam_oldim,я отдыхал в обед,jumlalar,предложения,continuous,no_samples
+sgn_00002491,men_qisqa_tanaffus_oldim,я сделал короткий перерыв,jumlalar,предложения,continuous,no_samples
+sgn_00002492,men_ishni_tugatdim,я закончил работу,jumlalar,предложения,continuous,no_samples
+sgn_00002493,men_maktabdan_qaytdim,я вернулся из школы,jumlalar,предложения,continuous,no_samples
+sgn_00002494,men_ishdan_qaytdim,я вернулся с работы,jumlalar,предложения,continuous,no_samples
+sgn_00002495,men_uyga_keldim,я пришёл домой,jumlalar,предложения,continuous,no_samples
+sgn_00002496,men_dam_oldim,я отдохнул,jumlalar,предложения,continuous,no_samples
+sgn_00002497,men_televizor_ko'rdim,я смотрел телевизор,jumlalar,предложения,continuous,no_samples
+sgn_00002498,men_telefon_bilan_o'ynadim,я играл на телефоне,jumlalar,предложения,continuous,no_samples
+sgn_00002499,men_internetdan_foydalandim,я пользовался интернетом,jumlalar,предложения,continuous,no_samples
+sgn_00002500,men_ijtimoiy_tarmoqlarga_kirdim,я зашёл в соцсети,jumlalar,предложения,continuous,no_samples
+sgn_00002501,men_xat_yozdim,я написал письмо,jumlalar,предложения,continuous,no_samples
+sgn_00002502,men_dars_tayyorladim,я подготовил урок,jumlalar,предложения,continuous,no_samples
+sgn_00002503,men_uy_vazifasini_bajardim,я выполнил домашнее задание,jumlalar,предложения,continuous,no_samples
+sgn_00002504,men_kechqurun_sayr_qildim,вечером я погулял,jumlalar,предложения,continuous,no_samples
+sgn_00002505,men_uxlashga_yotdim,я лёг спать,jumlalar,предложения,continuous,no_samples
+sgn_00002506,men_kech_yotdim,я лёг поздно,jumlalar,предложения,continuous,no_samples
+sgn_00002507,men_erta_uxladim,я рано лёг спать,jumlalar,предложения,continuous,no_samples
+sgn_00002508,men_yaxshi_uxladim,я хорошо поспал,jumlalar,предложения,continuous,no_samples
+sgn_00002509,men_tunda_uyg'ondim,я проснулся ночью,jumlalar,предложения,continuous,no_samples
+sgn_00002510,men_budilnik_o'rnatdim,я поставил будильник,jumlalar,предложения,continuous,no_samples
+sgn_00002511,men_ertalab_yugurdim,утром я побегал,jumlalar,предложения,continuous,no_samples
+sgn_00002512,men_jismoniy_mashq_qildim,я сделал физические упражнения,jumlalar,предложения,continuous,no_samples
+sgn_00002513,men_nonushta_tayyorladim,я приготовил завтрак,jumlalar,предложения,continuous,no_samples
+sgn_00002514,men_tuxum_qovurdim,я пожарил яйца,jumlalar,предложения,continuous,no_samples
+sgn_00002515,men_palov_pishirdim,я приготовил плов,jumlalar,предложения,continuous,no_samples
+sgn_00002516,men_sho'rva_qildim,я сварил суп,jumlalar,предложения,continuous,no_samples
+sgn_00002517,men_salat_tayyorladim,я приготовил салат,jumlalar,предложения,continuous,no_samples
+sgn_00002518,men_meva_yedim,я съел фрукты,jumlalar,предложения,continuous,no_samples
+sgn_00002519,men_sabzavot_yedim,я съел овощи,jumlalar,предложения,continuous,no_samples
+sgn_00002520,men_go'sht_yedim,я съел мясо,jumlalar,предложения,continuous,no_samples
+sgn_00002521,men_baliq_yedim,я съел рыбу,jumlalar,предложения,continuous,no_samples
+sgn_00002522,men_shirinlik_yedim,я съел сладости,jumlalar,предложения,continuous,no_samples
+sgn_00002523,men_suv_ichdim,я выпил воду,jumlalar,предложения,continuous,no_samples
+sgn_00002524,men_kompot_ichdim,я выпил компот,jumlalar,предложения,continuous,no_samples
+sgn_00002525,men_qahva_ichdim,я выпил кофе,jumlalar,предложения,continuous,no_samples
+sgn_00002526,men_muzqaymoq_yedim,я съел мороженое,jumlalar,предложения,continuous,no_samples
+sgn_00002527,men_uy_tozaladim,я убрал дом,jumlalar,предложения,continuous,no_samples
+sgn_00002528,men_chang_yutgich_ishlatdim,я использовал пылесос,jumlalar,предложения,continuous,no_samples
+sgn_00002529,men_pol_supurdim,я подмел пол,jumlalar,предложения,continuous,no_samples
+sgn_00002530,men_derazani_artdim,я помыл окно,jumlalar,предложения,continuous,no_samples
+sgn_00002531,men_bog'ni_sug'ordim,я полил сад,jumlalar,предложения,continuous,no_samples
+sgn_00002532,men_mashinani_yuvdim,я помыл машину,jumlalar,предложения,continuous,no_samples
+sgn_00002533,men_benzin_quydim,я заправил бензин,jumlalar,предложения,continuous,no_samples
+sgn_00002534,men_velosipedni_tuzatdim,я починил велосипед,jumlalar,предложения,continuous,no_samples
+sgn_00002535,men_eshikni_ochdim,я открыл дверь,jumlalar,предложения,continuous,no_samples
+sgn_00002536,men_oynani_ochdim,я открыл окно,jumlalar,предложения,continuous,no_samples
+sgn_00002537,men_konditsionerni_yoqdim,я включил кондиционер,jumlalar,предложения,continuous,no_samples
+sgn_00002538,men_pechni_yoqdim,я включил печь,jumlalar,предложения,continuous,no_samples
+sgn_00002539,men_kir_yuvdim,я постирал бельё,jumlalar,предложения,continuous,no_samples
+sgn_00002540,men_kiyimni_dazmoldim,я погладил одежду,jumlalar,предложения,continuous,no_samples
+sgn_00002541,men_xarid_qildim,я сделал покупки,jumlalar,предложения,continuous,no_samples
+sgn_00002542,men_pul_sarfladim,я потратил деньги,jumlalar,предложения,continuous,no_samples
+sgn_00002543,men_jamg'arma_qildim,я сэкономил,jumlalar,предложения,continuous,no_samples
+sgn_00002544,men_hisob-kitob_qildim,я посчитал расходы,jumlalar,предложения,continuous,no_samples
+sgn_00002545,men_to'lov_qildim,я произвёл оплату,jumlalar,предложения,continuous,no_samples
+sgn_00002546,men_kartadan_to'ladim,я оплатил картой,jumlalar,предложения,continuous,no_samples
+sgn_00002547,men_naqd_pul_to'ladim,я заплатил наличными,jumlalar,предложения,continuous,no_samples
+sgn_00002548,men_chek_oldim,я получил чек,jumlalar,предложения,continuous,no_samples
+sgn_00002549,men_navbatda_turdim,я стоял в очереди,jumlalar,предложения,continuous,no_samples
+sgn_00002550,men_ro'yxatdan_o'tdim,я зарегистрировался,jumlalar,предложения,continuous,no_samples
+sgn_00002551,men_uchrashuvga_bordim,я пошёл на встречу,jumlalar,предложения,continuous,no_samples
+sgn_00002552,men_vaqtida_yetib_bordim,я прибыл вовремя,jumlalar,предложения,continuous,no_samples
+sgn_00002553,men_kech_qoldim,я опоздал,jumlalar,предложения,continuous,no_samples
+sgn_00002554,men_erta_keldm,я пришёл рано,jumlalar,предложения,continuous,no_samples
+sgn_00002555,bugun_siz_qayerdansiz,сегодня откуда вы,jumlalar,предложения,continuous,no_samples
+sgn_00002556,siz_qayerga_bormoqchisiz,куда вы хотите пойти,jumlalar,предложения,continuous,no_samples
+sgn_00002557,hozir_bu_nima,сейчас что это,jumlalar,предложения,continuous,no_samples
+sgn_00002558,bugun_u_kim,сегодня кто это,jumlalar,предложения,continuous,no_samples
+sgn_00002559,hozir_qachon_kelasiz,сейчас когда вы придёте,jumlalar,предложения,continuous,no_samples
+sgn_00002560,hozir_necha_yoshdasiz,сейчас сколько вам лет,jumlalar,предложения,continuous,no_samples
+sgn_00002561,hozir_qancha_turadi,сейчас сколько это стоит,jumlalar,предложения,continuous,no_samples
+sgn_00002562,nechta_olma_bor,сколько яблок,jumlalar,предложения,continuous,no_samples
+sgn_00002563,hozir_qayerda_yashaysiz,сейчас где вы живёте,jumlalar,предложения,continuous,no_samples
+sgn_00002564,hozir_ismingiz_nima,сейчас как вас зовут,jumlalar,предложения,continuous,no_samples
+sgn_00002565,qanday_yordam_bera_olaman,чем могу помочь,jumlalar,предложения,continuous,no_samples
+sgn_00002566,hozir_nima_qilmoqchisiz,сейчас что вы хотите делать,jumlalar,предложения,continuous,no_samples
+sgn_00002567,bugun_havo_qanday,какая сегодня погода,jumlalar,предложения,continuous,no_samples
+sgn_00002568,soat_necha_bo'ldi,который час,jumlalar,предложения,continuous,no_samples
+sgn_00002569,hozir_qayerda_ishlaydi,сейчас где он работает,jumlalar,предложения,continuous,no_samples
+sgn_00002570,qaysi_maktabda_o'qiydi,в какой школе учится,jumlalar,предложения,continuous,no_samples
+sgn_00002571,nega_kech_qoldingiz,почему вы опоздали,jumlalar,предложения,continuous,no_samples
+sgn_00002572,hozir_qanday_borasiz,сейчас как вы доберётесь,jumlalar,предложения,continuous,no_samples
+sgn_00002573,bu_yer_qayer,где это место,jumlalar,предложения,continuous,no_samples
+sgn_00002574,qaysi_yo'l_to'g'ri,какая дорога правильная,jumlalar,предложения,continuous,no_samples
+sgn_00002575,qancha_vaqt_ketadi,сколько времени займёт,jumlalar,предложения,continuous,no_samples
+sgn_00002576,siz_buni_tushundingizmi,вы это поняли,jumlalar,предложения,continuous,no_samples
+sgn_00002577,bugun_siz_rozimisiz,сегодня вы согласны,jumlalar,предложения,continuous,no_samples
+sgn_00002578,yana_bir_bor_aytasizmi,повторите ещё раз,jumlalar,предложения,continuous,no_samples
+sgn_00002579,buni_qayta_ayting,скажите это снова,jumlalar,предложения,continuous,no_samples
+sgn_00002580,hozir_qayerdan_keldingiz,сейчас откуда вы пришли,jumlalar,предложения,continuous,no_samples
+sgn_00002581,hozir_qayerga_ketmoqchisiz,сейчас куда вы собираетесь,jumlalar,предложения,continuous,no_samples
+sgn_00002582,hozir_nima_yeyapsiz,сейчас что вы едите,jumlalar,предложения,continuous,no_samples
+sgn_00002583,hozir_nima_ichyapsiz,сейчас что вы пьёте,jumlalar,предложения,continuous,no_samples
+sgn_00002584,qaysi_rang_yoqadi,какой цвет нравится,jumlalar,предложения,continuous,no_samples
+sgn_00002585,qaysi_film_ko'rdingiz,какой фильм смотрели,jumlalar,предложения,continuous,no_samples
+sgn_00002586,qaysi_kitob_o'qidingiz,какую книгу читали,jumlalar,предложения,continuous,no_samples
+sgn_00002587,qaysi_musiqa_tinglaysiz,какую музыку слушаете,jumlalar,предложения,continuous,no_samples
+sgn_00002588,qaysi_sport_yoqadi,какой спорт нравится,jumlalar,предложения,continuous,no_samples
+sgn_00002589,necha_farzandingiz_bor,сколько у вас детей,jumlalar,предложения,continuous,no_samples
+sgn_00002590,yaqin_atrofdagi_oilangiz_qayerda,где находится ближайший ваша семья,jumlalar,предложения,continuous,no_samples
+sgn_00002591,qachon_tug'ilgan_kuningiz,когда ваш день рождения,jumlalar,предложения,continuous,no_samples
+sgn_00002592,qaysi_kasbda_ishlaysiz,в какой профессии работаете,jumlalar,предложения,continuous,no_samples
+sgn_00002593,qancha_maosh_olasiz,сколько получаете зарплату,jumlalar,предложения,continuous,no_samples
+sgn_00002594,qachon_dam_olasiz,когда вы отдыхаете,jumlalar,предложения,continuous,no_samples
+sgn_00002595,qayerda_dam_olmoqchisiz,где хотите отдохнуть,jumlalar,предложения,continuous,no_samples
+sgn_00002596,qanday_sayohat_qildingiz,как путешествовали,jumlalar,предложения,continuous,no_samples
+sgn_00002597,qaysi_mamlakatga_bordingiz,в какую страну ездили,jumlalar,предложения,continuous,no_samples
+sgn_00002598,hozir_qachon_qaytasiz,сейчас когда вернётесь,jumlalar,предложения,continuous,no_samples
+sgn_00002599,necha_kun_qolasiz,сколько дней останетесь,jumlalar,предложения,continuous,no_samples
+sgn_00002600,hozir_qayerda_turasiz,сейчас где остановитесь,jumlalar,предложения,continuous,no_samples
+sgn_00002601,"bilmayman,_xona_bormi","не знаю, есть ли свободная комната",jumlalar,предложения,continuous,no_samples
+sgn_00002602,necha_kishi_keladi,сколько человек придёт,jumlalar,предложения,continuous,no_samples
+sgn_00002603,"bilmayman,_stol_bandmi","не знаю, стол занят",jumlalar,предложения,continuous,no_samples
+sgn_00002604,"bilmayman,_menyu_bormi","не знаю, есть ли меню",jumlalar,предложения,continuous,no_samples
+sgn_00002605,nima_tavsiya_qilasiz,что посоветуете,jumlalar,предложения,continuous,no_samples
+sgn_00002606,bu_taza_mi,это свежее,jumlalar,предложения,continuous,no_samples
+sgn_00002607,bu_qanday_taom,что это за блюдо,jumlalar,предложения,continuous,no_samples
+sgn_00002608,ichida_nima_bor,что внутри,jumlalar,предложения,continuous,no_samples
+sgn_00002609,qaysi_o'lcham_kerak,какой размер нужен,jumlalar,предложения,continuous,no_samples
+sgn_00002610,boshqa_rang_bormi,есть другой цвет,jumlalar,предложения,continuous,no_samples
+sgn_00002611,"bilmayman,_chegirma_bormi","не знаю, есть ли скидка",jumlalar,предложения,continuous,no_samples
+sgn_00002612,karta_qabul_qilasizmi,принимаете карту,jumlalar,предложения,continuous,no_samples
+sgn_00002613,naqd_pul_kerakmi,нужны наличные,jumlalar,предложения,continuous,no_samples
+sgn_00002614,"bilmayman,_qaytarish_mumkinmi","не знаю, можно вернуть",jumlalar,предложения,continuous,no_samples
+sgn_00002615,"bilmayman,_kafolat_bormi","не знаю, есть гарантия",jumlalar,предложения,continuous,no_samples
+sgn_00002616,qachon_yetkazib_beriladi,когда доставят,jumlalar,предложения,continuous,no_samples
+sgn_00002617,yetkazib_berish_bormi,есть доставка,jumlalar,предложения,continuous,no_samples
+sgn_00002618,qayerda_to'xtash_mumkin,где можно припарковаться,jumlalar,предложения,continuous,no_samples
+sgn_00002619,avtobus_qachon_keladi,когда придёт автобус,jumlalar,предложения,continuous,no_samples
+sgn_00002620,keyingi_bekat_qayerda,где следующая остановка,jumlalar,предложения,continuous,no_samples
+sgn_00002621,bu_yo'l_qayerga_boradi,куда ведёт эта дорога,jumlalar,предложения,continuous,no_samples
+sgn_00002622,yaqinroq_do'kon_bormi,есть магазин поближе,jumlalar,предложения,continuous,no_samples
+sgn_00002623,eng_yaqin_apteka_qayerda,где ближайшая аптека,jumlalar,предложения,continuous,no_samples
+sgn_00002624,shifokor_qachon_qabul_qiladi,когда врач принимает,jumlalar,предложения,continuous,no_samples
+sgn_00002625,navbat_qancha_kutadi,сколько ждать в очереди,jumlalar,предложения,continuous,no_samples
+sgn_00002626,dori_qanday_ichiladi,как принимать лекарство,jumlalar,предложения,continuous,no_samples
+sgn_00002627,kuniga_necha_marta,сколько раз в день,jumlalar,предложения,continuous,no_samples
+sgn_00002628,og'riq_qachondan_boshlangan,когда началась боль,jumlalar,предложения,continuous,no_samples
+sgn_00002629,hozir_temperatura_qancha,сейчас какая температура,jumlalar,предложения,continuous,no_samples
+sgn_00002630,"bilmayman,_allergiya_bormi","не знаю, есть ли аллергия",jumlalar,предложения,continuous,no_samples
+sgn_00002631,qaysi_dori_ichyapsiz,какое лекарство принимаете,jumlalar,предложения,continuous,no_samples
+sgn_00002632,qachon_oxirgi_marta_tekshirildingiz,когда последний раз обследовались,jumlalar,предложения,continuous,no_samples
+sgn_00002633,qanday_his_qilyapsiz,как вы себя чувствуете,jumlalar,предложения,continuous,no_samples
+sgn_00002634,yaxshimi_yoki_yomonmi,хорошо или плохо,jumlalar,предложения,continuous,no_samples
+sgn_00002635,ko'proq_ma'lumot_bering,дайте больше информации,jumlalar,предложения,continuous,no_samples
+sgn_00002636,buni_yozib_bera_olasizmi,можете записать,jumlalar,предложения,continuous,no_samples
+sgn_00002637,telefon_raqamingiz_nima,какой ваш номер телефона,jumlalar,предложения,continuous,no_samples
+sgn_00002638,email_manzilingiz_bormi,есть ли email,jumlalar,предложения,continuous,no_samples
+sgn_00002639,qachon_bo'sh_bo'lasiz,когда будете свободны,jumlalar,предложения,continuous,no_samples
+sgn_00002640,"bilmayman,_bugun_uchrashamizmi","не знаю, встретимся сегодня",jumlalar,предложения,continuous,no_samples
+sgn_00002641,"bilmayman,_ertaga_bo'ladimi","не знаю, завтра получится",jumlalar,предложения,continuous,no_samples
+sgn_00002642,soat_nechida_boshlanadi,во сколько начинается,jumlalar,предложения,continuous,no_samples
+sgn_00002643,qancha_vaqt_davom_etadi,сколько длится,jumlalar,предложения,continuous,no_samples
+sgn_00002644,hozir_kimlar_keladi,сейчас кто придёт,jumlalar,предложения,continuous,no_samples
+sgn_00002645,nima_kiyish_kerak,что надеть,jumlalar,предложения,continuous,no_samples
+sgn_00002646,"bilmayman,_yomg'ir_yog'adimi","не знаю, будет дождь",jumlalar,предложения,continuous,no_samples
+sgn_00002647,"bilmayman,_sovuq_bo'ladimi","не знаю, будет холодно",jumlalar,предложения,continuous,no_samples
+sgn_00002648,"bilmayman,_issiq_bo'ladimi","не знаю, будет жарко",jumlalar,предложения,continuous,no_samples
+sgn_00002649,hozir_qayerda_yig'ilamiz,сейчас где соберёмся,jumlalar,предложения,continuous,no_samples
+sgn_00002650,hozir_qanday_ketamiz,сейчас как поедем,jumlalar,предложения,continuous,no_samples
+sgn_00002651,hozir_kim_haydaydi,сейчас кто будет водить,jumlalar,предложения,continuous,no_samples
+sgn_00002652,"bilmayman,_yoqilg'i_yetadimi","не знаю, хватит ли бензина",jumlalar,предложения,continuous,no_samples
+sgn_00002653,"iltimos,_xarita_ko'rsating","пожалуйста, покажите на карте",jumlalar,предложения,continuous,no_samples
+sgn_00002654,soat_sakkizda_uyg'ondim,я проснулся в восемь часов,jumlalar,предложения,continuous,no_samples
+sgn_00002655,ertalab_soat_yettida_turaman,утром встаю в семь,jumlalar,предложения,continuous,no_samples
+sgn_00002656,tushlik_soat_birida,обед в час,jumlalar,предложения,continuous,no_samples
+sgn_00002657,kechki_ovqat_soat_oltida,ужин в шесть,jumlalar,предложения,continuous,no_samples
+sgn_00002658,men_soat_to'qqizda_ishga_boraman,я иду на работу в девять,jumlalar,предложения,continuous,no_samples
+sgn_00002659,dars_soat_ikkida_boshlanadi,урок начинается в два,jumlalar,предложения,continuous,no_samples
+sgn_00002660,men_yarim_soat_kutdim,я ждал полчаса,jumlalar,предложения,continuous,no_samples
+sgn_00002661,bir_soatdan_keyin_kelaman,приду через час,jumlalar,предложения,continuous,no_samples
+sgn_00002662,ikki_soat_ishladim,я работал два часа,jumlalar,предложения,continuous,no_samples
+sgn_00002663,uch_kun_dam_oldim,я отдыхал три дня,jumlalar,предложения,continuous,no_samples
+sgn_00002664,to'rt_hafta_o'tdi,прошло четыре недели,jumlalar,предложения,continuous,no_samples
+sgn_00002665,besh_oy_oldin_kelgan_edim,я приехал пять месяцев назад,jumlalar,предложения,continuous,no_samples
+sgn_00002666,olti_yil_oldin_tug'ildim,я родился шесть лет назад,jumlalar,предложения,continuous,no_samples
+sgn_00002667,yetti_kun_ishlayman,работаю семь дней,jumlalar,предложения,continuous,no_samples
+sgn_00002668,sakkizta_kitob_o'qidim,прочитал восемь книг,jumlalar,предложения,continuous,no_samples
+sgn_00002669,to'qqizta_olma_sotib_oldim,купил девять яблок,jumlalar,предложения,continuous,no_samples
+sgn_00002670,o'n_ming_so'm_to'ladim,заплатил десять тысяч сумов,jumlalar,предложения,continuous,no_samples
+sgn_00002671,yigirma_metr_yurdim,прошёл двадцать метров,jumlalar,предложения,continuous,no_samples
+sgn_00002672,o'ttiz_daqiqa_kutdim,ждал тридцать минут,jumlalar,предложения,continuous,no_samples
+sgn_00002673,qirq_kilometr_masofa_bor,расстояние сорок километров,jumlalar,предложения,continuous,no_samples
+sgn_00002674,ellik_foiz_chegirma_bor,скидка пятьдесят процентов,jumlalar,предложения,continuous,no_samples
+sgn_00002675,hozir_oltmish_yoshda,сейчас шестьдесят лет,jumlalar,предложения,continuous,no_samples
+sgn_00002676,yetmish_ming_odam_keldi,пришло семьдесят тысяч человек,jumlalar,предложения,continuous,no_samples
+sgn_00002677,sakson_nafar_talaba_bor,восемьдесят студентов,jumlalar,предложения,continuous,no_samples
+sgn_00002678,to'qson_foiz_tayyor,девяносто процентов готово,jumlalar,предложения,continuous,no_samples
+sgn_00002679,yuz_ming_so'm_kerak,нужно сто тысяч сумов,jumlalar,предложения,continuous,no_samples
+sgn_00002680,hozir_bugun_dushanba,сейчас сегодня понедельник,jumlalar,предложения,continuous,no_samples
+sgn_00002681,hozir_ertaga_seshanba,сейчас завтра вторник,jumlalar,предложения,continuous,no_samples
+sgn_00002682,o'tgan_hafta_dam_oldim,на прошлой неделе отдыхал,jumlalar,предложения,continuous,no_samples
+sgn_00002683,keyingi_oy_sayohat_qilaman,в следующем месяце поеду в путешествие,jumlalar,предложения,continuous,no_samples
+sgn_00002684,bu_yil_tug'ilgan_kunim,в этом году мой день рождения,jumlalar,предложения,continuous,no_samples
+sgn_00002685,o'tgan_yil_universitetni_bitirdim,в прошлом году окончил университет,jumlalar,предложения,continuous,no_samples
+sgn_00002686,har_kuni_erta_turaman,каждый день встаю рано,jumlalar,предложения,continuous,no_samples
+sgn_00002687,haftada_besh_kun_ishlayman,работаю пять дней в неделю,jumlalar,предложения,continuous,no_samples
+sgn_00002688,oyning_birinchi_kuni,первое число месяца,jumlalar,предложения,continuous,no_samples
+sgn_00002689,yilning_oxirida_dam_olaman,отдыхаю в конце года,jumlalar,предложения,continuous,no_samples
+sgn_00002690,yozda_issiq_bo'ladi,летом жарко,jumlalar,предложения,continuous,no_samples
+sgn_00002691,qishda_sovuq_bo'ladi,зимой холодно,jumlalar,предложения,continuous,no_samples
+sgn_00002692,bahorda_gullar_ochiladi,весной цветы распускаются,jumlalar,предложения,continuous,no_samples
+sgn_00002693,kuzda_barglar_to'kiladi,осенью листья опадают,jumlalar,предложения,continuous,no_samples
+sgn_00002694,bugun_yanvar_oyining_sakkizinchi_kuni,сегодня восьмое января,jumlalar,предложения,continuous,no_samples
+sgn_00002695,men_fevralda_tug'ilganman,я родился в феврале,jumlalar,предложения,continuous,no_samples
+sgn_00002696,mart_oyida_bahor_keladi,в марте приходит весна,jumlalar,предложения,continuous,no_samples
+sgn_00002697,aprelda_yomg'ir_ko'p_yog'adi,в апреле много дождя,jumlalar,предложения,continuous,no_samples
+sgn_00002698,may_oyida_issiq_bo'ladi,в мае жарко,jumlalar,предложения,continuous,no_samples
+sgn_00002699,iyunda_maktab_tugaydi,в июне школа заканчивается,jumlalar,предложения,continuous,no_samples
+sgn_00002700,iyulda_ta'til_boshlanadi,в июле начинаются каникулы,jumlalar,предложения,continuous,no_samples
+sgn_00002701,avgustda_sayohat_qilaman,в августе поеду в путешествие,jumlalar,предложения,continuous,no_samples
+sgn_00002702,sentyabrda_maktab_ochiladi,в сентябре школа открывается,jumlalar,предложения,continuous,no_samples
+sgn_00002703,oktyabrda_kuz_keladi,в октябре приходит осень,jumlalar,предложения,continuous,no_samples
+sgn_00002704,noyabrda_sovuq_boshlanadi,в ноябре начинается холод,jumlalar,предложения,continuous,no_samples
+sgn_00002705,dekabrda_qish_keladi,в декабре приходит зима,jumlalar,предложения,continuous,no_samples
+sgn_00002706,ertalab_soat_oltida_uyg'onaman,просыпаюсь в шесть утра,jumlalar,предложения,continuous,no_samples
+sgn_00002707,tushlik_vaqti_soat_o'n_ikki,обеденное время в двенадцать,jumlalar,предложения,continuous,no_samples
+sgn_00002708,kechqurun_soat_sakkizda_uyga_qaytaman,вечером в восемь возвращаюсь домой,jumlalar,предложения,continuous,no_samples
+sgn_00002709,tun_yarim_tunda_uxlayman,сплю в полночь,jumlalar,предложения,continuous,no_samples
+sgn_00002710,bir_kun_oldin_kelgan_edim,приехал день назад,jumlalar,предложения,continuous,no_samples
+sgn_00002711,ikki_hafta_keyin_qaytaman,вернусь через две недели,jumlalar,предложения,continuous,no_samples
+sgn_00002712,uch_oy_davom_etadi,длится три месяца,jumlalar,предложения,continuous,no_samples
+sgn_00002713,to'rt_yil_o'qidim,учился четыре года,jumlalar,предложения,continuous,no_samples
+sgn_00002714,besh_daqiqada_yetib_boraman,приеду за пять минут,jumlalar,предложения,continuous,no_samples
+sgn_00002715,olti_soat_ucha_ketadi,шесть часов в пути,jumlalar,предложения,continuous,no_samples
+sgn_00002716,yetti_kunlik_sayohat,семидневное путешествие,jumlalar,предложения,continuous,no_samples
+sgn_00002717,sakkizinchi_qavatda_turaman,живу на восьмом этаже,jumlalar,предложения,continuous,no_samples
+sgn_00002718,to'qqizinchi_sinfda_o'qiydi,учится в девятом классе,jumlalar,предложения,continuous,no_samples
+sgn_00002719,o'ninchi_yil_ishlayman,работаю десятый год,jumlalar,предложения,continuous,no_samples
+sgn_00002720,birinchi_marta_keldim,приехал первый раз,jumlalar,предложения,continuous,no_samples
+sgn_00002721,ikkinchi_qavatda_ofis_bor,офис на втором этаже,jumlalar,предложения,continuous,no_samples
+sgn_00002722,uchinchi_yo'l_to'g'ri,третья дорога правильная,jumlalar,предложения,continuous,no_samples
+sgn_00002723,to'rtinchi_bekatda_tushing,выходите на четвёртой остановке,jumlalar,предложения,continuous,no_samples
+sgn_00002724,beshinchi_xonada_yig'ilamiz,соберёмся в пятой комнате,jumlalar,предложения,continuous,no_samples
+sgn_00002725,yarim_soat_qoldi,осталось полчаса,jumlalar,предложения,continuous,no_samples
+sgn_00002726,bir_soat_o'tdi,прошёл час,jumlalar,предложения,continuous,no_samples
+sgn_00002727,ikki_kun_qoldi,осталось два дня,jumlalar,предложения,continuous,no_samples
+sgn_00002728,uch_hafta_oldin_boshlandi,началось три недели назад,jumlalar,предложения,continuous,no_samples
+sgn_00002729,to'rt_oy_qoldi,осталось четыре месяца,jumlalar,предложения,continuous,no_samples
+sgn_00002730,besh_yil_o'tdi,прошло пять лет,jumlalar,предложения,continuous,no_samples
+sgn_00002731,soat_minging_oldida,без пяти десять,jumlalar,предложения,continuous,no_samples
+sgn_00002732,soat_o'n_besh_o'tdi,пятнадцать минут прошло,jumlalar,предложения,continuous,no_samples
+sgn_00002733,kecha_kech_bo'ldi,вчера был вечер,jumlalar,предложения,continuous,no_samples
+sgn_00002734,bugun_ertalab_yomg'ir_yog'di,сегодня утром шёл дождь,jumlalar,предложения,continuous,no_samples
+sgn_00002735,ertaga_quyoshli_bo'ladi,завтра будет солнечно,jumlalar,предложения,continuous,no_samples
+sgn_00002736,o'tgan_tun_sovuq_edi,прошлой ночью было холодно,jumlalar,предложения,continuous,no_samples
+sgn_00002737,hozir_soat_to'rt,сейчас четыре часа,jumlalar,предложения,continuous,no_samples
+sgn_00002738,vaqt_tez_o'tib_ketdi,время быстро прошло,jumlalar,предложения,continuous,no_samples
+sgn_00002739,hozir_vaqtim_yetmayapti,сейчас у меня не хватает времени,jumlalar,предложения,continuous,no_samples
+sgn_00002740,hozir_vaqtida_keldim,сейчас пришёл вовремя,jumlalar,предложения,continuous,no_samples
+sgn_00002741,hozir_kechikib_qoldim,сейчас опоздал,jumlalar,предложения,continuous,no_samples
+sgn_00002742,erta_kelgan_edim,пришёл рано,jumlalar,предложения,continuous,no_samples
+sgn_00002743,navbatda_o'n_besh_daqiqa_turdim,стоял в очереди пятнадцать минут,jumlalar,предложения,continuous,no_samples
+sgn_00002744,mashina_besh_daqiqada_keladi,машина приедет через пять минут,jumlalar,предложения,continuous,no_samples
+sgn_00002745,poyezd_soat_uchda_jo'naydi,поезд отправляется в три,jumlalar,предложения,continuous,no_samples
+sgn_00002746,samolyot_ertaga_uchadi,самолёт летит завтра,jumlalar,предложения,continuous,no_samples
+sgn_00002747,uch_soat_parvoz_davom_etadi,полёт длится три часа,jumlalar,предложения,continuous,no_samples
+sgn_00002748,ikki_kun_yo'lda_edik,два дня были в пути,jumlalar,предложения,continuous,no_samples
+sgn_00002749,bir_hafta_ta'tilda_edim,неделю был в отпуске,jumlalar,предложения,continuous,no_samples
+sgn_00002750,oy_oxirida_maosh_olaman,зарплату получаю в конце месяца,jumlalar,предложения,continuous,no_samples
+sgn_00002751,har_oy_ijara_to'layman,каждый месяц плачу аренду,jumlalar,предложения,continuous,no_samples
+sgn_00002752,yil_boshida_reja_tuzaman,в начале года составляю план,jumlalar,предложения,continuous,no_samples
+sgn_00002753,yil_oxirida_hisobot_beraman,в конце года сдаю отчёт,jumlalar,предложения,continuous,no_samples
+sgn_00002754,men_maktabda_o'qiyapman,я учусь в школе,jumlalar,предложения,continuous,no_samples
+sgn_00002755,men_universitetda_talabaman,я студент университета,jumlalar,предложения,continuous,no_samples
+sgn_00002756,men_darsga_keldim,я пришёл на урок,jumlalar,предложения,continuous,no_samples
+sgn_00002757,o'qituvchi_darsni_boshladi,учитель начал урок,jumlalar,предложения,continuous,no_samples
+sgn_00002758,men_daftar_ochdim,я открыл тетрадь,jumlalar,предложения,continuous,no_samples
+sgn_00002759,men_qalam_bilan_yozdim,я писал ручкой,jumlalar,предложения,continuous,no_samples
+sgn_00002760,men_kitob_o'qidim,я читал книгу,jumlalar,предложения,continuous,no_samples
+sgn_00002761,men_uy_vazifasini_qildim,я сделал домашнее задание,jumlalar,предложения,continuous,no_samples
+sgn_00002762,men_imtihon_topshirdim,я сдал экзамен,jumlalar,предложения,continuous,no_samples
+sgn_00002763,men_yaxshi_baho_oldim,я получил хорошую оценку,jumlalar,предложения,continuous,no_samples
+sgn_00002764,men_sinfda_o'tirdim,я сидел в классе,jumlalar,предложения,continuous,no_samples
+sgn_00002765,men_doskaga_chiqdim,я вышел к доске,jumlalar,предложения,continuous,no_samples
+sgn_00002766,men_savol_berdim,я задал вопрос,jumlalar,предложения,continuous,no_samples
+sgn_00002767,men_javob_berdim,я ответил,jumlalar,предложения,continuous,no_samples
+sgn_00002768,men_darsni_tushundim,я понял урок,jumlalar,предложения,continuous,no_samples
+sgn_00002769,men_darsni_tushunmadim,я не понял урок,jumlalar,предложения,continuous,no_samples
+sgn_00002770,men_o'qituvchidan_yordam_so'radim,я попросил помощи у учителя,jumlalar,предложения,continuous,no_samples
+sgn_00002771,men_kutubxonada_o'qidim,я читал в библиотеке,jumlalar,предложения,continuous,no_samples
+sgn_00002772,men_laboratoriyada_tajriba_qildim,я провёл эксперимент в лаборатории,jumlalar,предложения,continuous,no_samples
+sgn_00002773,men_kompyuterda_ishladim,я работал на компьютере,jumlalar,предложения,continuous,no_samples
+sgn_00002774,men_prezentatsiya_tayyorladim,я подготовил презентацию,jumlalar,предложения,continuous,no_samples
+sgn_00002775,men_ma'ruza_tingladim,я слушал лекцию,jumlalar,предложения,continuous,no_samples
+sgn_00002776,men_seminar_qatnashdim,я участвовал в семинаре,jumlalar,предложения,continuous,no_samples
+sgn_00002777,men_kursni_tugatdim,я закончил курс,jumlalar,предложения,continuous,no_samples
+sgn_00002778,men_diplom_oldim,я получил диплом,jumlalar,предложения,continuous,no_samples
+sgn_00002779,men_ish_qidiryapman,я ищу работу,jumlalar,предложения,continuous,no_samples
+sgn_00002780,men_ishga_joylashdim,я устроился на работу,jumlalar,предложения,continuous,no_samples
+sgn_00002781,men_ofisda_ishlayman,я работаю в офисе,jumlalar,предложения,continuous,no_samples
+sgn_00002782,men_kompaniyada_ishlayman,я работаю в компании,jumlalar,предложения,continuous,no_samples
+sgn_00002783,men_rahbarim_bilan_uchrashdim,я встретился с руководителем,jumlalar,предложения,continuous,no_samples
+sgn_00002784,men_yig'ilishga_bordim,я пошёл на собрание,jumlalar,предложения,continuous,no_samples
+sgn_00002785,men_hisobot_tayyorladim,я подготовил отчёт,jumlalar,предложения,continuous,no_samples
+sgn_00002786,men_email_yubordim,я отправил email,jumlalar,предложения,continuous,no_samples
+sgn_00002787,men_mijoz_bilan_gaplashdim,я поговорил с клиентом,jumlalar,предложения,continuous,no_samples
+sgn_00002788,men_shartnoma_imzoladim,я подписал договор,jumlalar,предложения,continuous,no_samples
+sgn_00002789,men_loyiha_ustida_ishlayapman,я работаю над проектом,jumlalar,предложения,continuous,no_samples
+sgn_00002790,men_muddatga_yetkazdim,я сдал в срок,jumlalar,предложения,continuous,no_samples
+sgn_00002791,men_qo'shimcha_ish_qildim,я сделал дополнительную работу,jumlalar,предложения,continuous,no_samples
+sgn_00002792,men_tanaffus_oldim,я сделал перерыв,jumlalar,предложения,continuous,no_samples
+sgn_00002793,men_ishdan_ketdim,я ушёл с работы,jumlalar,предложения,continuous,no_samples
+sgn_00002794,men_maosh_oldim,я получил зарплату,jumlalar,предложения,continuous,no_samples
+sgn_00002795,men_kasb_o'rganmoqdaman,я учусь профессии,jumlalar,предложения,continuous,no_samples
+sgn_00002796,men_stajyor_bo'lib_ishlayman,я работаю стажёром,jumlalar,предложения,continuous,no_samples
+sgn_00002797,men_tajriba_orttirdim,я набрался опыта,jumlalar,предложения,continuous,no_samples
+sgn_00002798,men_ko'nikma_o'rgandim,я выучил навык,jumlalar,предложения,continuous,no_samples
+sgn_00002799,men_til_kursiga_bordim,я ходил на курсы языка,jumlalar,предложения,continuous,no_samples
+sgn_00002800,men_ingliz_tilini_o'rganyapman,я учу английский язык,jumlalar,предложения,continuous,no_samples
+sgn_00002801,men_rus_tilini_bilaman,я знаю русский язык,jumlalar,предложения,continuous,no_samples
+sgn_00002802,men_o'zbek_tilida_gapiraman,я говорю на узбекском,jumlalar,предложения,continuous,no_samples
+sgn_00002803,men_matematika_yaxshi_bilaman,я хорошо знаю математику,jumlalar,предложения,continuous,no_samples
+sgn_00002804,men_fizika_o'rganyapman,я учу физику,jumlalar,предложения,continuous,no_samples
+sgn_00002805,men_kimyo_darsini_o'qidim,я прошёл урок химии,jumlalar,предложения,continuous,no_samples
+sgn_00002806,men_biologiya_qiziq,биология интересна,jumlalar,предложения,continuous,no_samples
+sgn_00002807,men_tarix_darsini_yaxshi_ko'raman,мне нравится урок истории,jumlalar,предложения,continuous,no_samples
+sgn_00002808,men_geografiya_o'rgandim,я изучил географию,jumlalar,предложения,continuous,no_samples
+sgn_00002809,men_adabiyot_o'qidim,я читал литературу,jumlalar,предложения,continuous,no_samples
+sgn_00002810,men_she'r_yozdim,я написал стих,jumlalar,предложения,continuous,no_samples
+sgn_00002811,men_hikoya_yozdim,я написал рассказ,jumlalar,предложения,continuous,no_samples
+sgn_00002812,men_rasm_chizdim,я нарисовал картину,jumlalar,предложения,continuous,no_samples
+sgn_00002813,men_musiqa_chalaman,я играю на музыке,jumlalar,предложения,continuous,no_samples
+sgn_00002814,men_qo'shiq_aytaman,я пою песню,jumlalar,предложения,continuous,no_samples
+sgn_00002815,men_raqs_bilmayman,я не умею танцевать,jumlalar,предложения,continuous,no_samples
+sgn_00002816,men_sport_musobaqasida_qatnashdim,я участвовал в спортивном соревновании,jumlalar,предложения,continuous,no_samples
+sgn_00002817,men_g'alaba_qozondim,я одержал победу,jumlalar,предложения,continuous,no_samples
+sgn_00002818,men_mag'lub_bo'ldim,я проиграл,jumlalar,предложения,continuous,no_samples
+sgn_00002819,men_mukofot_oldim,я получил награду,jumlalar,предложения,continuous,no_samples
+sgn_00002820,men_sertifikat_oldim,я получил сертификат,jumlalar,предложения,continuous,no_samples
+sgn_00002821,men_konferensiyaga_bordim,я поехал на конференцию,jumlalar,предложения,continuous,no_samples
+sgn_00002822,men_ma'ruza_qildim,я прочитал доклад,jumlalar,предложения,continuous,no_samples
+sgn_00002823,men_tadqiqot_olib_bordim,я провёл исследование,jumlalar,предложения,continuous,no_samples
+sgn_00002824,men_maqola_yozdim,я написал статью,jumlalar,предложения,continuous,no_samples
+sgn_00002825,men_jurnal_chop_etildi,статья опубликована в журнале,jumlalar,предложения,continuous,no_samples
+sgn_00002826,men_o'qituvchi_bo'lishni_xohlayman,я хочу стать учителем,jumlalar,предложения,continuous,no_samples
+sgn_00002827,men_shifokor_bo'lishni_xohlayman,я хочу стать врачом,jumlalar,предложения,continuous,no_samples
+sgn_00002828,men_dasturchi_bo'lishni_xohlayman,я хочу стать программистом,jumlalar,предложения,continuous,no_samples
+sgn_00002829,men_kelajakda_muvaffaq_bo'laman,в будущем я добьюсь успеха,jumlalar,предложения,continuous,no_samples
+sgn_00002830,men_orzu_qilaman,я мечтаю,jumlalar,предложения,continuous,no_samples
+sgn_00002831,men_maqsad_qo'ydim,я поставил цель,jumlalar,предложения,continuous,no_samples
+sgn_00002832,men_reja_tuzdim,я составил план,jumlalar,предложения,continuous,no_samples
+sgn_00002833,men_har_kuni_o'qiyman,я учусь каждый день,jumlalar,предложения,continuous,no_samples
+sgn_00002834,men_ko'p_o'qish_kerak,мне нужно много учиться,jumlalar,предложения,continuous,no_samples
+sgn_00002835,men_bilim_olishni_yaxshi_ko'raman,я люблю учиться,jumlalar,предложения,continuous,no_samples
+sgn_00002836,men_sinfdoshlarim_bilan_dars_qildim,я занимался с одноклассниками,jumlalar,предложения,continuous,no_samples
+sgn_00002837,men_guruhda_ishladim,я работал в группе,jumlalar,предложения,continuous,no_samples
+sgn_00002838,men_mustaqil_ishladim,я работал самостоятельно,jumlalar,предложения,continuous,no_samples
+sgn_00002839,men_topshiriqni_bajardim,я выполнил задание,jumlalar,предложения,continuous,no_samples
+sgn_00002840,men_vaqtida_topshirdim,я сдал вовремя,jumlalar,предложения,continuous,no_samples
+sgn_00002841,men_kechikib_topshirdim,я сдал с опозданием,jumlalar,предложения,continuous,no_samples
+sgn_00002842,men_o'qituvchimni_hurmat_qilaman,я уважаю своего учителя,jumlalar,предложения,continuous,no_samples
+sgn_00002843,men_maktab_qoidalariga_rioya_qilaman,я соблюдаю школьные правила,jumlalar,предложения,continuous,no_samples
+sgn_00002844,men_formani_kiyaman,я ношу форму,jumlalar,предложения,continuous,no_samples
+sgn_00002845,men_darsga_kech_qolmadim,я не опоздал на урок,jumlalar,предложения,continuous,no_samples
+sgn_00002846,men_faol_qatnashdim,я активно участвовал,jumlalar,предложения,continuous,no_samples
+sgn_00002847,men_savolga_javob_berdim,я ответил на вопрос,jumlalar,предложения,continuous,no_samples
+sgn_00002848,men_darsdan_keyin_qoldim,я остался после урока,jumlalar,предложения,continuous,no_samples
+sgn_00002849,men_qo'shimcha_dars_oldim,я взял дополнительный урок,jumlalar,предложения,continuous,no_samples
+sgn_00002850,men_o'qishni_davom_ettiraman,я продолжаю учёбу,jumlalar,предложения,continuous,no_samples
+sgn_00002851,men_boshim_og'riyapti,у меня болит голова,jumlalar,предложения,continuous,no_samples
+sgn_00002852,men_qornim_og'riyapti,у меня болит живот,jumlalar,предложения,continuous,no_samples
+sgn_00002853,men_tishim_og'riyapti,у меня болит зуб,jumlalar,предложения,continuous,no_samples
+sgn_00002854,bugun_men_halsizman,сегодня я слабый,jumlalar,предложения,continuous,no_samples
+sgn_00002855,bugun_men_charchaganman,сегодня я устал,jumlalar,предложения,continuous,no_samples
+sgn_00002856,bugun_men_kasalman,сегодня я болен,jumlalar,предложения,continuous,no_samples
+sgn_00002857,bugun_men_shamolladim,сегодня я простудился,jumlalar,предложения,continuous,no_samples
+sgn_00002858,men_isitmam_ko'tarilgan,у меня поднялась температура,jumlalar,предложения,continuous,no_samples
+sgn_00002859,bugun_men_yo'talayapman,сегодня я кашляю,jumlalar,предложения,continuous,no_samples
+sgn_00002860,bugun_men_aksiryapman,сегодня я чихаю,jumlalar,предложения,continuous,no_samples
+sgn_00002861,men_burnim_oqib_turibdi,у меня течёт из носа,jumlalar,предложения,continuous,no_samples
+sgn_00002862,men_ko'zim_qizarib_ketgan,у меня покраснели глаза,jumlalar,предложения,continuous,no_samples
+sgn_00002863,men_qulog'im_og'riyapti,у меня болит ухо,jumlalar,предложения,continuous,no_samples
+sgn_00002864,men_bo'g'im_og'riyapti,у меня болят суставы,jumlalar,предложения,continuous,no_samples
+sgn_00002865,men_belim_og'riyapti,у меня болит спина,jumlalar,предложения,continuous,no_samples
+sgn_00002866,men_yurak_og'rig'i_bor,у меня болит сердце,jumlalar,предложения,continuous,no_samples
+sgn_00002867,men_nafas_qisilishi_bor,у меня одышка,jumlalar,предложения,continuous,no_samples
+sgn_00002868,men_allergiyam_bor,у меня аллергия,jumlalar,предложения,continuous,no_samples
+sgn_00002869,men_diabet_kasalligim_bor,у меня диабет,jumlalar,предложения,continuous,no_samples
+sgn_00002870,men_bosimim_yuqori,у меня высокое давление,jumlalar,предложения,continuous,no_samples
+sgn_00002871,men_shifokorga_bordim,я пошёл к врачу,jumlalar,предложения,continuous,no_samples
+sgn_00002872,men_aptekaga_bordim,я пошёл в аптеку,jumlalar,предложения,continuous,no_samples
+sgn_00002873,men_dori_sotib_oldim,я купил лекарство,jumlalar,предложения,continuous,no_samples
+sgn_00002874,men_dori_ichdim,я принял лекарство,jumlalar,предложения,continuous,no_samples
+sgn_00002875,men_ukol_oldim,я сделал укол,jumlalar,предложения,continuous,no_samples
+sgn_00002876,men_tahlil_topshirdim,я сдал анализ,jumlalar,предложения,continuous,no_samples
+sgn_00002877,men_rentgen_oldim,я сделал рентген,jumlalar,предложения,continuous,no_samples
+sgn_00002878,men_operatsiya_qildirdim,мне сделали операцию,jumlalar,предложения,continuous,no_samples
+sgn_00002879,men_kasalxonada_yotdim,я лежал в больнице,jumlalar,предложения,continuous,no_samples
+sgn_00002880,men_tez_yordam_chaqirdim,я вызвал скорую помощь,jumlalar,предложения,continuous,no_samples
+sgn_00002881,bugun_men_sog'lomman,сегодня я здоров,jumlalar,предложения,continuous,no_samples
+sgn_00002882,men_yaxshi_his_qilyapman,я хорошо себя чувствую,jumlalar,предложения,continuous,no_samples
+sgn_00002883,men_yomon_his_qilyapman,я плохо себя чувствую,jumlalar,предложения,continuous,no_samples
+sgn_00002884,men_dam_oldim_va_yaxshiladim,я отдохнул и поправился,jumlalar,предложения,continuous,no_samples
+sgn_00002885,men_sport_bilan_sog'lomlashdim,я оздоровился спортом,jumlalar,предложения,continuous,no_samples
+sgn_00002886,men_to'g'ri_ovqatlanaman,я правильно питаюсь,jumlalar,предложения,continuous,no_samples
+sgn_00002887,men_ko'p_suv_ichaman,я пью много воды,jumlalar,предложения,continuous,no_samples
+sgn_00002888,men_sabzavot_yeyman,я ем овощи,jumlalar,предложения,continuous,no_samples
+sgn_00002889,men_meva_yeyman,я ем фрукты,jumlalar,предложения,continuous,no_samples
+sgn_00002890,men_tuxum_yeyman,я ем яйца,jumlalar,предложения,continuous,no_samples
+sgn_00002891,men_go'sht_kam_yeyman,я мало ем мяса,jumlalar,предложения,continuous,no_samples
+sgn_00002892,men_shakar_kam_iste'mol_qilaman,я мало ем сахар,jumlalar,предложения,continuous,no_samples
+sgn_00002893,men_tuz_kam_yeyman,я мало ем соль,jumlalar,предложения,continuous,no_samples
+sgn_00002894,men_yugurish_bilan_shug'ullanaman,я занимаюсь бегом,jumlalar,предложения,continuous,no_samples
+sgn_00002895,men_suzishga_boraman,я хожу плавать,jumlalar,предложения,continuous,no_samples
+sgn_00002896,men_yoga_qilaman,я делаю йогу,jumlalar,предложения,continuous,no_samples
+sgn_00002897,men_massaj_oldim,я получил массаж,jumlalar,предложения,continuous,no_samples
+sgn_00002898,men_ko'zoynak_kiyaman,я ношу очки,jumlalar,предложения,continuous,no_samples
+sgn_00002899,men_eshitish_apparati_ishlataman,я пользуюсь слуховым аппаратом,jumlalar,предложения,continuous,no_samples
+sgn_00002900,men_tish_doktoriga_bordim,я пошёл к стоматологу,jumlalar,предложения,continuous,no_samples
+sgn_00002901,men_tish_tozalatdim,я почистил зубы у врача,jumlalar,предложения,continuous,no_samples
+sgn_00002902,men_ko'z_doktoriga_bordim,я пошёл к окулисту,jumlalar,предложения,continuous,no_samples
+sgn_00002903,men_qon_bosimini_o'lchadim,я измерил давление,jumlalar,предложения,continuous,no_samples
+sgn_00002904,men_vazn_o'lchadim,я взвесился,jumlalar,предложения,continuous,no_samples
+sgn_00002905,men_bo'y_o'lchadim,я измерил рост,jumlalar,предложения,continuous,no_samples
+sgn_00002906,men_emlash_oldim,я сделал прививку,jumlalar,предложения,continuous,no_samples
+sgn_00002907,men_grippga_qarshi_emlandim,я привился от гриппа,jumlalar,предложения,continuous,no_samples
+sgn_00002908,men_jarohat_oldim,я получил травму,jumlalar,предложения,continuous,no_samples
+sgn_00002909,men_qo'lim_singan,у меня сломана рука,jumlalar,предложения,continuous,no_samples
+sgn_00002910,men_oyoqimga_tushdim,я ушиб ногу,jumlalar,предложения,continuous,no_samples
+sgn_00002911,men_qon_ketdi,у меня пошла кровь,jumlalar,предложения,continuous,no_samples
+sgn_00002912,men_plastir_yopdim,я наклеил пластырь,jumlalar,предложения,continuous,no_samples
+sgn_00002913,men_bog'lab_qo'ydim,я перевязал,jumlalar,предложения,continuous,no_samples
+sgn_00002914,men_og'riq_qoldiruvchi_ichdim,я принял обезболивающее,jumlalar,предложения,continuous,no_samples
+sgn_00002915,men_dam_olishim_kerak,мне нужно отдохнуть,jumlalar,предложения,continuous,no_samples
+sgn_00002916,men_uyda_qolaman,я останусь дома,jumlalar,предложения,continuous,no_samples
+sgn_00002917,men_ishga_bormayman,я не пойду на работу,jumlalar,предложения,continuous,no_samples
+sgn_00002918,men_maktabga_bormayman,я не пойду в школу,jumlalar,предложения,continuous,no_samples
+sgn_00002919,men_tezroq_tuzalaman_deb_umid_qilaman,"надеюсь, скоро выздоровею",jumlalar,предложения,continuous,no_samples
+sgn_00002920,men_uxlashim_kerak,мне нужно поспать,jumlalar,предложения,continuous,no_samples
+sgn_00002921,men_kech_uxladim,я поздно лёг спать,jumlalar,предложения,continuous,no_samples
+sgn_00002922,men_yetarlicha_uxlamadim,я недостаточно спал,jumlalar,предложения,continuous,no_samples
+sgn_00002923,men_stressda_edim,я был в стрессе,jumlalar,предложения,continuous,no_samples
+sgn_00002924,men_tinchlanishim_kerak,мне нужно успокоиться,jumlalar,предложения,continuous,no_samples
+sgn_00002925,men_nafas_mashqi_qildim,я сделал дыхательное упражнение,jumlalar,предложения,continuous,no_samples
+sgn_00002926,men_meditatsiya_qildim,я медитировал,jumlalar,предложения,continuous,no_samples
+sgn_00002927,men_psixologga_bordim,я пошёл к психологу,jumlalar,предложения,continuous,no_samples
+sgn_00002928,men_ruhiy_sog'liqni_muhim_deb_bilaman,я считаю психическое здоровье важным,jumlalar,предложения,continuous,no_samples
+sgn_00002929,men_yurak_urishi_tez,у меня учащённое сердцебиение,jumlalar,предложения,continuous,no_samples
+sgn_00002930,men_ko'nglim_ayniyapti,меня тошнит,jumlalar,предложения,continuous,no_samples
+sgn_00002931,bugun_men_qusdim,сегодня я вырвал,jumlalar,предложения,continuous,no_samples
+sgn_00002932,men_ishtaham_yo'q,у меня нет аппетита,jumlalar,предложения,continuous,no_samples
+sgn_00002933,men_juda_ochman,я очень голоден,jumlalar,предложения,continuous,no_samples
+sgn_00002934,bugun_men_chanqaganman,сегодня я хочу пить,jumlalar,предложения,continuous,no_samples
+sgn_00002935,bugun_men_terlayapman,сегодня я потею,jumlalar,предложения,continuous,no_samples
+sgn_00002936,men_sovuqdan_qaltirayapman,я дрожу от холода,jumlalar,предложения,continuous,no_samples
+sgn_00002937,men_issiqdan_charchadim,я устал от жары,jumlalar,предложения,continuous,no_samples
+sgn_00002938,men_quyosh_kremi_surtdim,я намазал солнцезащитный крем,jumlalar,предложения,continuous,no_samples
+sgn_00002939,men_gigiyenaga_rioya_qilaman,я соблюдаю гигиену,jumlalar,предложения,continuous,no_samples
+sgn_00002940,men_tish_pastasi_ishlataman,я пользуюсь зубной пастой,jumlalar,предложения,continuous,no_samples
+sgn_00002941,men_soch_shampuni_ishlataman,я пользуюсь шампунем,jumlalar,предложения,continuous,no_samples
+sgn_00002942,men_sochimni_qisqartirdim,я подстриг волосы,jumlalar,предложения,continuous,no_samples
+sgn_00002943,men_tirnoq_kesdim,я подстриг ногти,jumlalar,предложения,continuous,no_samples
+sgn_00002944,men_terini_tozaladim,я очистил кожу,jumlalar,предложения,continuous,no_samples
+sgn_00002945,men_qizarish_bor,у меня покраснение,jumlalar,предложения,continuous,no_samples
+sgn_00002946,men_qichish_bor,у меня зуд,jumlalar,предложения,continuous,no_samples
+sgn_00002947,men_toshma_chiqdi,у меня сыпь,jumlalar,предложения,continuous,no_samples
+sgn_00002948,men_krem_surtdim,я намазал крем,jumlalar,предложения,continuous,no_samples
+sgn_00002949,men_sog'ligimni_asrayman,я берегу своё здоровье,jumlalar,предложения,continuous,no_samples
+sgn_00002950,men_do'konga_kirdim,я зашёл в магазин,jumlalar,предложения,continuous,no_samples
+sgn_00002951,men_non_sotib_oldim,я купил хлеб,jumlalar,предложения,continuous,no_samples
+sgn_00002952,men_sut_sotib_oldim,я купил молоко,jumlalar,предложения,continuous,no_samples
+sgn_00002953,men_go'sht_sotib_oldim,я купил мясо,jumlalar,предложения,continuous,no_samples
+sgn_00002954,men_sabzavot_sotib_oldim,я купил овощи,jumlalar,предложения,continuous,no_samples
+sgn_00002955,men_meva_sotib_oldim,я купил фрукты,jumlalar,предложения,continuous,no_samples
+sgn_00002956,men_guruch_sotib_oldim,я купил рис,jumlalar,предложения,continuous,no_samples
+sgn_00002957,men_yog'_sotib_oldim,я купил масло,jumlalar,предложения,continuous,no_samples
+sgn_00002958,men_tuxum_sotib_oldim,я купил яйца,jumlalar,предложения,continuous,no_samples
+sgn_00002959,men_shakar_sotib_oldim,я купил сахар,jumlalar,предложения,continuous,no_samples
+sgn_00002960,men_tuz_sotib_oldim,я купил соль,jumlalar,предложения,continuous,no_samples
+sgn_00002961,men_qancha_to'lashim_kerak,сколько мне платить,jumlalar,предложения,continuous,no_samples
+sgn_00002962,bu_qancha_turadi,сколько это стоит,jumlalar,предложения,continuous,no_samples
+sgn_00002963,hozir_juda_qimmat,сейчас очень дорого,jumlalar,предложения,continuous,no_samples
+sgn_00002964,"bilmayman,_arzonroq_bormi","не знаю, есть подешевле",jumlalar,предложения,continuous,no_samples
+sgn_00002965,men_chegirma_so'radim,я попросил скидку,jumlalar,предложения,continuous,no_samples
+sgn_00002966,men_qadoq_oldim,я взял пакет,jumlalar,предложения,continuous,no_samples
+sgn_00002967,men_sumkaga_solib_qo'ydim,я положил в сумку,jumlalar,предложения,continuous,no_samples
+sgn_00002968,men_savatga_solib_qo'ydim,я положил в корзину,jumlalar,предложения,continuous,no_samples
+sgn_00002969,men_restoranga_bordim,я пошёл в ресторан,jumlalar,предложения,continuous,no_samples
+sgn_00002970,men_kafega_bordim,я пошёл в кафе,jumlalar,предложения,continuous,no_samples
+sgn_00002971,men_stol_buyurtma_qildim,я заказал стол,jumlalar,предложения,continuous,no_samples
+sgn_00002972,men_taom_buyurtma_qildim,я заказал блюдо,jumlalar,предложения,continuous,no_samples
+sgn_00002973,men_palov_buyurtma_qildim,я заказал плов,jumlalar,предложения,continuous,no_samples
+sgn_00002974,men_lag'mon_buyurtma_qildim,я заказал лагман,jumlalar,предложения,continuous,no_samples
+sgn_00002975,men_shashlik_buyurtma_qildim,я заказал шашлык,jumlalar,предложения,continuous,no_samples
+sgn_00002976,men_salat_buyurtma_qildim,я заказал салат,jumlalar,предложения,continuous,no_samples
+sgn_00002977,men_choy_buyurtma_qildim,я заказал чай,jumlalar,предложения,continuous,no_samples
+sgn_00002978,men_suv_buyurtma_qildim,я заказал воду,jumlalar,предложения,continuous,no_samples
+sgn_00002979,men_hisob_so'radim,я попросил счёт,jumlalar,предложения,continuous,no_samples
+sgn_00002980,taom_juda_mazali_edi,еда была очень вкусной,jumlalar,предложения,continuous,no_samples
+sgn_00002981,bugun_men_to'ydim,сегодня я наелся,jumlalar,предложения,continuous,no_samples
+sgn_00002982,men_yana_bir_porsiya_oldim,я взял ещё порцию,jumlalar,предложения,continuous,no_samples
+sgn_00002983,men_nonushta_qildim,я позавтракал,jumlalar,предложения,continuous,no_samples
+sgn_00002984,men_uyda_ovqat_pishirdim,я готовил дома,jumlalar,предложения,continuous,no_samples
+sgn_00002985,men_manti_pishirdim,я приготовил манты,jumlalar,предложения,continuous,no_samples
+sgn_00002986,men_somsa_pishirdim,я приготовил самсу,jumlalar,предложения,continuous,no_samples
+sgn_00002987,men_non_yopdim,я испёк хлеб,jumlalar,предложения,continuous,no_samples
+sgn_00002988,men_shirinlik_pishirdim,я испёк сладости,jumlalar,предложения,continuous,no_samples
+sgn_00002989,men_tort_pishirdim,я испёк торт,jumlalar,предложения,continuous,no_samples
+sgn_00002990,men_meva_sharbat_qildim,я сделал фруктовый сок,jumlalar,предложения,continuous,no_samples
+sgn_00002991,men_choy_damladim,я заварил чай,jumlalar,предложения,continuous,no_samples
+sgn_00002992,men_qahva_qildim,я сварил кофе,jumlalar,предложения,continuous,no_samples
+sgn_00002993,men_shokolad_yedim,я съел шоколад,jumlalar,предложения,continuous,no_samples
+sgn_00002994,men_pechenye_yedim,я съел печенье,jumlalar,предложения,continuous,no_samples
+sgn_00002995,men_olma_yedim,я съел яблоко,jumlalar,предложения,continuous,no_samples
+sgn_00002996,men_banan_yedim,я съел банан,jumlalar,предложения,continuous,no_samples
+sgn_00002997,men_uzum_yedim,я съел виноград,jumlalar,предложения,continuous,no_samples
+sgn_00002998,men_tarvuz_yedim,я съел арбуз,jumlalar,предложения,continuous,no_samples
+sgn_00002999,men_pomidor_yedim,я съел помидор,jumlalar,предложения,continuous,no_samples
+sgn_00003000,men_bodring_yedim,я съел огурец,jumlalar,предложения,continuous,no_samples
+sgn_00003001,men_piyoz_qo'shdim,я добавил лук,jumlalar,предложения,continuous,no_samples
+sgn_00003002,men_sarimsoq_qo'shdim,я добавил чеснок,jumlalar,предложения,continuous,no_samples
+sgn_00003003,men_ziravor_qo'shdim,я добавил специи,jumlalar,предложения,continuous,no_samples
+sgn_00003004,men_tuz_qo'shdim,я добавил соль,jumlalar,предложения,continuous,no_samples
+sgn_00003005,men_shakar_qo'shdim,я добавил сахар,jumlalar,предложения,continuous,no_samples
+sgn_00003006,men_yog'_qo'shdim,я добавил масло,jumlalar,предложения,continuous,no_samples
+sgn_00003007,men_qovurib_pishirdim,я пожарил,jumlalar,предложения,continuous,no_samples
+sgn_00003008,men_qaynatib_pishirdim,я сварил,jumlalar,предложения,continuous,no_samples
+sgn_00003009,men_bug'da_pishirdim,я приготовил на пару,jumlalar,предложения,continuous,no_samples
+sgn_00003010,men_pechda_pishirdim,я испёк в духовке,jumlalar,предложения,continuous,no_samples
+sgn_00003011,men_muzlatgichga_qo'ydim,я положил в холодильник,jumlalar,предложения,continuous,no_samples
+sgn_00003012,men_mahsulot_muddati_o'tgan,продукт просрочен,jumlalar,предложения,continuous,no_samples
+sgn_00003013,men_yangi_mahsulot_oldim,я взял свежий продукт,jumlalar,предложения,continuous,no_samples
+sgn_00003014,men_chegirma_bo'lganini_ko'rdim,я увидел скидку,jumlalar,предложения,continuous,no_samples
+sgn_00003015,men_aksiya_bo'yicha_sotib_oldim,я купил по акции,jumlalar,предложения,continuous,no_samples
+sgn_00003016,men_onlayn_buyurtma_qildim,я заказал онлайн,jumlalar,предложения,continuous,no_samples
+sgn_00003017,men_yetkazib_berish_buyurtma_qildim,я заказал доставку,jumlalar,предложения,continuous,no_samples
+sgn_00003018,men_kuryer_keldi,приехал курьер,jumlalar,предложения,continuous,no_samples
+sgn_00003019,men_mahsulotni_qabul_qildim,я принял товар,jumlalar,предложения,continuous,no_samples
+sgn_00003020,men_qaytarib_berdim,я вернул товар,jumlalar,предложения,continuous,no_samples
+sgn_00003021,men_almashtirib_oldim,я обменял,jumlalar,предложения,continuous,no_samples
+sgn_00003022,men_kiyim_sotib_oldim,я купил одежду,jumlalar,предложения,continuous,no_samples
+sgn_00003023,men_poyafzal_sotib_oldim,я купил обувь,jumlalar,предложения,continuous,no_samples
+sgn_00003024,men_ko'ylak_kiydim,я надел рубашку,jumlalar,предложения,continuous,no_samples
+sgn_00003025,men_shim_kiydim,я надел брюки,jumlalar,предложения,continuous,no_samples
+sgn_00003026,men_ko'ylak_sotib_oldim,я купил платье,jumlalar,предложения,continuous,no_samples
+sgn_00003027,men_o'lchamimni_bilaman,я знаю свой размер,jumlalar,предложения,continuous,no_samples
+sgn_00003028,men_kiyib_ko'rdim,я примерил,jumlalar,предложения,continuous,no_samples
+sgn_00003029,bugun_men_yoqdi,сегодня мне понравилось,jumlalar,предложения,continuous,no_samples
+sgn_00003030,bugun_men_yoqmadi,сегодня мне не понравилось,jumlalar,предложения,continuous,no_samples
+sgn_00003031,men_sotib_oldim,я купил,jumlalar,предложения,continuous,no_samples
+sgn_00003032,bugun_men_sotdim,сегодня я продал,jumlalar,предложения,continuous,no_samples
+sgn_00003033,men_bozorda_savdo_qildim,я торговал на базаре,jumlalar,предложения,continuous,no_samples
+sgn_00003034,men_narxni_kelishdik,мы договорились о цене,jumlalar,предложения,continuous,no_samples
+sgn_00003035,men_arzon_narxda_oldim,я купил по дешёвой цене,jumlalar,предложения,continuous,no_samples
+sgn_00003036,men_qimmat_narxda_sotdim,я продал по дорогой цене,jumlalar,предложения,continuous,no_samples
+sgn_00003037,men_savdo_markaziga_bordim,я пошёл в торговый центр,jumlalar,предложения,continuous,no_samples
+sgn_00003038,men_kassa_oldida_turdim,я стоял у кассы,jumlalar,предложения,continuous,no_samples
+sgn_00003039,bu_yer_qayerda_joylashgan,где находится это место,jumlalar,предложения,continuous,no_samples
+sgn_00003040,men_toshkentda_yashayman,я живу в Ташкенте,jumlalar,предложения,continuous,no_samples
+sgn_00003041,men_samarqandga_bordim,я поехал в Самарканд,jumlalar,предложения,continuous,no_samples
+sgn_00003042,men_buxoroga_sayohat_qildim,я путешествовал в Бухару,jumlalar,предложения,continuous,no_samples
+sgn_00003043,men_xivaga_bordim,я поехал в Хиву,jumlalar,предложения,continuous,no_samples
+sgn_00003044,men_farg'onaga_bordim,я поехал в Фергану,jumlalar,предложения,continuous,no_samples
+sgn_00003045,men_andijonga_bordim,я поехал в Андижан,jumlalar,предложения,continuous,no_samples
+sgn_00003046,men_namanganga_bordim,я поехал в Наманган,jumlalar,предложения,continuous,no_samples
+sgn_00003047,men_qishloqda_tug'ilganman,я родился в деревне,jumlalar,предложения,continuous,no_samples
+sgn_00003048,men_shaharda_yashayman,я живу в городе,jumlalar,предложения,continuous,no_samples
+sgn_00003049,men_maktabda_turibman,я в школе,jumlalar,предложения,continuous,no_samples
+sgn_00003050,bugun_men_ishdaman,сегодня я на работе,jumlalar,предложения,continuous,no_samples
+sgn_00003051,bugun_men_bozordaman,сегодня я на базаре,jumlalar,предложения,continuous,no_samples
+sgn_00003052,bugun_men_bog'daman,сегодня я в парке,jumlalar,предложения,continuous,no_samples
+sgn_00003053,bugun_men_kasalxonadaman,сегодня я в больнице,jumlalar,предложения,continuous,no_samples
+sgn_00003054,bugun_men_aeroportdaman,сегодня я в аэропорту,jumlalar,предложения,continuous,no_samples
+sgn_00003055,men_vokzalda_turibman,я на вокзале,jumlalar,предложения,continuous,no_samples
+sgn_00003056,men_metrosda_turibman,я в метро,jumlalar,предложения,continuous,no_samples
+sgn_00003057,men_avtobusda_turibman,я в автобусе,jumlalar,предложения,continuous,no_samples
+sgn_00003058,men_mashinada_turibman,я в машине,jumlalar,предложения,continuous,no_samples
+sgn_00003059,"iltimos,_to'g'ri_boring","пожалуйста, идите прямо",jumlalar,предложения,continuous,no_samples
+sgn_00003060,"iltimos,_chapga_buriling","пожалуйста, поверните налево",jumlalar,предложения,continuous,no_samples
+sgn_00003061,"iltimos,_o'ngga_buriling","пожалуйста, поверните направо",jumlalar,предложения,continuous,no_samples
+sgn_00003062,"iltimos,_orqaga_qayting","пожалуйста, вернитесь назад",jumlalar,предложения,continuous,no_samples
+sgn_00003063,ikkinchi_ko'chaga_kiring,сверните на вторую улицу,jumlalar,предложения,continuous,no_samples
+sgn_00003064,chorraha_oldida_turing,остановитесь перед перекрёстком,jumlalar,предложения,continuous,no_samples
+sgn_00003065,svetofor_oldida_kuting,ждите у светофора,jumlalar,предложения,continuous,no_samples
+sgn_00003066,piyodalar_o'tish_joyidan_o'ting,перейдите по пешеходному переходу,jumlalar,предложения,continuous,no_samples
+sgn_00003067,"iltimos,_ko'prikdan_o'ting","пожалуйста, перейдите через мост",jumlalar,предложения,continuous,no_samples
+sgn_00003068,"iltimos,_tuneldan_o'ting","пожалуйста, пройдите через туннель",jumlalar,предложения,continuous,no_samples
+sgn_00003069,"iltimos,_zina_chiqing","пожалуйста, поднимитесь по лестнице",jumlalar,предложения,continuous,no_samples
+sgn_00003070,"iltimos,_zina_tushing","пожалуйста, спуститесь по лестнице",jumlalar,предложения,continuous,no_samples
+sgn_00003071,lift_bilan_chiqing,поднимитесь на лифте,jumlalar,предложения,continuous,no_samples
+sgn_00003072,hozir_birinch_qavatda,сейчас на первом этаже,jumlalar,предложения,continuous,no_samples
+sgn_00003073,hozir_ikkinchi_qavatda,сейчас на втором этаже,jumlalar,предложения,continuous,no_samples
+sgn_00003074,hozir_oxirgi_qavatda,сейчас на последнем этаже,jumlalar,предложения,continuous,no_samples
+sgn_00003075,hozir_chap_tomonda,сейчас с левой стороны,jumlalar,предложения,continuous,no_samples
+sgn_00003076,hozir_o'ng_tomonda,сейчас с правой стороны,jumlalar,предложения,continuous,no_samples
+sgn_00003077,hozir_old_tomonda,сейчас впереди,jumlalar,предложения,continuous,no_samples
+sgn_00003078,hozir_orqa_tomonda,сейчас сзади,jumlalar,предложения,continuous,no_samples
+sgn_00003079,hozir_yaqin_atrofda,сейчас поблизости,jumlalar,предложения,continuous,no_samples
+sgn_00003080,bu_joy_juda_uzoqda,это место очень далеко,jumlalar,предложения,continuous,no_samples
+sgn_00003081,hozir_juda_yaqin,сейчас очень близко,jumlalar,предложения,continuous,no_samples
+sgn_00003082,yaqin_atrofdagi_maktab_qayerda,где находится ближайший школа,jumlalar,предложения,continuous,no_samples
+sgn_00003083,yaqin_atrofdagi_kasalxona_qayerda,где находится ближайший больница,jumlalar,предложения,continuous,no_samples
+sgn_00003084,yaqin_atrofdagi_apteka_qayerda,где находится ближайший аптека,jumlalar,предложения,continuous,no_samples
+sgn_00003085,yaqin_atrofdagi_do'kon_qayerda,где находится ближайший магазин,jumlalar,предложения,continuous,no_samples
+sgn_00003086,yaqin_atrofdagi_bank_qayerda,где находится ближайший банк,jumlalar,предложения,continuous,no_samples
+sgn_00003087,yaqin_atrofdagi_pochta_qayerda,где находится ближайший почта,jumlalar,предложения,continuous,no_samples
+sgn_00003088,yaqin_atrofdagi_bekat_qayerda,где находится ближайший остановка,jumlalar,предложения,continuous,no_samples
+sgn_00003089,yaqin_atrofdagi_stantsiya_qayerda,где находится ближайший станция,jumlalar,предложения,continuous,no_samples
+sgn_00003090,men_yo'ldan_adashdim,я заблудился,jumlalar,предложения,continuous,no_samples
+sgn_00003091,men_yordam_so'rayapman,я прошу помощи,jumlalar,предложения,continuous,no_samples
+sgn_00003092,men_manzilni_topa_olmayapman,я не могу найти адрес,jumlalar,предложения,continuous,no_samples
+sgn_00003093,bu_to'g'ri_yo'lmikan,это правильная дорога,jumlalar,предложения,continuous,no_samples
+sgn_00003094,hozir_qancha_uzoq,сейчас как далеко,jumlalar,предложения,continuous,no_samples
+sgn_00003095,piyoda_necha_daqiqa,сколько минут пешком,jumlalar,предложения,continuous,no_samples
+sgn_00003096,mashina_bilan_necha_daqiqa,сколько минут на машине,jumlalar,предложения,continuous,no_samples
+sgn_00003097,avtobus_qaysi_yo'nalishda,в каком направлении автобус,jumlalar,предложения,continuous,no_samples
+sgn_00003098,metro_qaysi_tomonga,в какую сторону метро,jumlalar,предложения,continuous,no_samples
+sgn_00003099,men_bekatda_tushdim,я вышел на остановке,jumlalar,предложения,continuous,no_samples
+sgn_00003100,men_stantsiyada_tushdim,я вышел на станции,jumlalar,предложения,continuous,no_samples
+sgn_00003101,men_aeroportga_yetib_bordim,я прибыл в аэропорт,jumlalar,предложения,continuous,no_samples
+sgn_00003102,men_mehmonxonaga_bordim,я пошёл в гостиницу,jumlalar,предложения,continuous,no_samples
+sgn_00003103,men_xonani_bron_qildim,я забронировал комнату,jumlalar,предложения,continuous,no_samples
+sgn_00003104,men_kalit_oldim,я получил ключ,jumlalar,предложения,continuous,no_samples
+sgn_00003105,men_xonaga_kirdim,я вошёл в комнату,jumlalar,предложения,continuous,no_samples
+sgn_00003106,men_derazadan_tashqariga_qarab_turibman,я смотрю в окно,jumlalar,предложения,continuous,no_samples
+sgn_00003107,men_bog'da_sayr_qilyapman,я гуляю в парке,jumlalar,предложения,continuous,no_samples
+sgn_00003108,men_daryo_bo'yida_yuribman,я иду вдоль реки,jumlalar,предложения,continuous,no_samples
+sgn_00003109,men_tog'ga_chiqdim,я поднялся на гору,jumlalar,предложения,continuous,no_samples
+sgn_00003110,men_dengiz_bo'yida_edim,я был у моря,jumlalar,предложения,continuous,no_samples
+sgn_00003111,men_ko'l_bo'yida_dam_oldim,я отдыхал у озера,jumlalar,предложения,continuous,no_samples
+sgn_00003112,men_cho'lga_bordim,я поехал в пустыню,jumlalar,предложения,continuous,no_samples
+sgn_00003113,men_tarixiy_joyga_bordim,я поехал в историческое место,jumlalar,предложения,continuous,no_samples
+sgn_00003114,men_muzeyga_bordim,я пошёл в музей,jumlalar,предложения,continuous,no_samples
+sgn_00003115,men_teatrga_bordim,я пошёл в театр,jumlalar,предложения,continuous,no_samples
+sgn_00003116,men_kinoga_bordim,я пошёл в кино,jumlalar,предложения,continuous,no_samples
+sgn_00003117,men_stadionga_bordim,я пошёл на стадион,jumlalar,предложения,continuous,no_samples
+sgn_00003118,men_masjidga_bordim,я пошёл в мечеть,jumlalar,предложения,continuous,no_samples
+sgn_00003119,men_cherkovga_bordim,я пошёл в церковь,jumlalar,предложения,continuous,no_samples
+sgn_00003120,men_bozorda_yuribman,я хожу по базару,jumlalar,предложения,continuous,no_samples
+sgn_00003121,men_bozor_juda_gavjum,на базаре очень многолюдно,jumlalar,предложения,continuous,no_samples
+sgn_00003122,men_ko'chada_yuribman,я иду по улице,jumlalar,предложения,continuous,no_samples
+sgn_00003123,men_tor_ko'chada_turibman,я на узкой улице,jumlalar,предложения,continuous,no_samples
+sgn_00003124,men_keng_yo'lda_turibman,я на широкой дороге,jumlalar,предложения,continuous,no_samples
+sgn_00003125,men_tirbandlikda_turibman,я в пробке,jumlalar,предложения,continuous,no_samples
+sgn_00003126,men_yo'l_qurilishda,я на ремонте дороги,jumlalar,предложения,continuous,no_samples
+sgn_00003127,men_chegara_postida,я на пограничном посту,jumlalar,предложения,continuous,no_samples
+sgn_00003128,men_pasportni_ko'rsatdim,я показал паспорт,jumlalar,предложения,continuous,no_samples
+sgn_00003129,men_mamlakatga_kirdim,я въехал в страну,jumlalar,предложения,continuous,no_samples
+sgn_00003130,men_shaharga_kirdim,я въехал в город,jumlalar,предложения,continuous,no_samples
+sgn_00003131,men_uyga_yetib_keldim,я добрался домой,jumlalar,предложения,continuous,no_samples
+sgn_00003132,men_manzilga_yetib_bordim,я добрался до адреса,jumlalar,предложения,continuous,no_samples
+sgn_00003133,men_xaritada_qidirdim,я искал на карте,jumlalar,предложения,continuous,no_samples
+sgn_00003134,men_gps_ishlatdim,я использовал gps,jumlalar,предложения,continuous,no_samples
+sgn_00003135,men_yo'lni_topdim,я нашёл дорогу,jumlalar,предложения,continuous,no_samples
+sgn_00003136,bugun_men_xursandman,сегодня я рад,jumlalar,предложения,continuous,no_samples
+sgn_00003137,men_juda_baxtliman,я очень счастлив,jumlalar,предложения,continuous,no_samples
+sgn_00003138,bugun_men_g'amginman,сегодня я грустный,jumlalar,предложения,continuous,no_samples
+sgn_00003139,men_xafa_bo'ldim,я обиделся,jumlalar,предложения,continuous,no_samples
+sgn_00003140,men_jahlim_chiqdi,я разозлился,jumlalar,предложения,continuous,no_samples
+sgn_00003141,bugun_men_qo'rqyapman,сегодня я боюсь,jumlalar,предложения,continuous,no_samples
+sgn_00003142,men_hayratda_qoldim,я удивился,jumlalar,предложения,continuous,no_samples
+sgn_00003143,bugun_men_hayajonlanayapman,сегодня я волнуюсь,jumlalar,предложения,continuous,no_samples
+sgn_00003144,men_ishonchim_komil,я уверен,jumlalar,предложения,continuous,no_samples
+sgn_00003145,bugun_men_shubhalanayapman,сегодня я сомневаюсь,jumlalar,предложения,continuous,no_samples
+sgn_00003146,men_umid_qilaman,я надеюсь,jumlalar,предложения,continuous,no_samples
+sgn_00003147,men_umidim_yo'q,у меня нет надежды,jumlalar,предложения,continuous,no_samples
+sgn_00003148,bugun_men_minnatdorman,сегодня я благодарен,jumlalar,предложения,continuous,no_samples
+sgn_00003149,men_kechirim_so'rayman,я прошу прощения,jumlalar,предложения,continuous,no_samples
+sgn_00003150,men_uzr_so'rayman,я извиняюсь,jumlalar,предложения,continuous,no_samples
+sgn_00003151,bugun_men_sevaman,сегодня я люблю,jumlalar,предложения,continuous,no_samples
+sgn_00003152,men_yaxshi_ko'raman,мне нравится,jumlalar,предложения,continuous,no_samples
+sgn_00003153,men_yomon_ko'raman,мне не нравится,jumlalar,предложения,continuous,no_samples
+sgn_00003154,bugun_men_qiziqaman,сегодня мне интересно,jumlalar,предложения,continuous,no_samples
+sgn_00003155,bugun_men_zerikdim,сегодня мне скучно,jumlalar,предложения,continuous,no_samples
+sgn_00003156,bugun_men_tinchman,сегодня я спокоен,jumlalar,предложения,continuous,no_samples
+sgn_00003157,men_asabiy_bo'ldim,я нервничаю,jumlalar,предложения,continuous,no_samples
+sgn_00003158,men_stress_ostidaman,я под стрессом,jumlalar,предложения,continuous,no_samples
+sgn_00003159,bugun_men_xavotirdaman,сегодня я беспокоюсь,jumlalar,предложения,continuous,no_samples
+sgn_00003160,bugun_men_ishonaman,сегодня я верю,jumlalar,предложения,continuous,no_samples
+sgn_00003161,bugun_men_ishonmayman,сегодня я не верю,jumlalar,предложения,continuous,no_samples
+sgn_00003162,bugun_men_faxrlanaman,сегодня я горжусь,jumlalar,предложения,continuous,no_samples
+sgn_00003163,bugun_men_uyaldim,сегодня мне стыдно,jumlalar,предложения,continuous,no_samples
+sgn_00003164,bugun_men_qizg'inman,сегодня я ревную,jumlalar,предложения,continuous,no_samples
+sgn_00003165,men_hasad_qilaman,я завидую,jumlalar,предложения,continuous,no_samples
+sgn_00003166,bugun_men_orzulayman,сегодня я мечтаю,jumlalar,предложения,continuous,no_samples
+sgn_00003167,bugun_men_xohlayman,сегодня я хочу,jumlalar,предложения,continuous,no_samples
+sgn_00003168,bugun_men_xohlamayman,сегодня я не хочу,jumlalar,предложения,continuous,no_samples
+sgn_00003169,bugun_men_yoqtiraman,сегодня мне нравится,jumlalar,предложения,continuous,no_samples
+sgn_00003170,bugun_men_yoqtirmayman,сегодня мне не нравится,jumlalar,предложения,continuous,no_samples
+sgn_00003171,men_rozi_bo'ldim,я согласился,jumlalar,предложения,continuous,no_samples
+sgn_00003172,men_rozi_emasman,я не согласен,jumlalar,предложения,continuous,no_samples
+sgn_00003173,men_qattiq_fikrdaman,я твёрдо убеждён,jumlalar,предложения,continuous,no_samples
+sgn_00003174,bugun_men_ikkilanayapman,сегодня я колеблюсь,jumlalar,предложения,continuous,no_samples
+sgn_00003175,men_qaror_qildim,я принял решение,jumlalar,предложения,continuous,no_samples
+sgn_00003176,bugun_men_o'ylayapman,сегодня я думаю,jumlalar,предложения,continuous,no_samples
+sgn_00003177,bugun_men_eslayman,сегодня я помню,jumlalar,предложения,continuous,no_samples
+sgn_00003178,bugun_men_unutdim,сегодня я забыл,jumlalar,предложения,continuous,no_samples
+sgn_00003179,bugun_men_tushundim,сегодня я понял,jumlalar,предложения,continuous,no_samples
+sgn_00003180,bugun_men_tushunmadim,сегодня я не понял,jumlalar,предложения,continuous,no_samples
+sgn_00003181,bugun_men_bilaman,сегодня я знаю,jumlalar,предложения,continuous,no_samples
+sgn_00003182,bugun_men_bilmayman,сегодня я не знаю,jumlalar,предложения,continuous,no_samples
+sgn_00003183,bugun_men_o'rganmoqdaman,сегодня я учусь,jumlalar,предложения,continuous,no_samples
+sgn_00003184,men_xato_qildim,я ошибся,jumlalar,предложения,continuous,no_samples
+sgn_00003185,men_to'g'ri_qildim,я сделал правильно,jumlalar,предложения,continuous,no_samples
+sgn_00003186,men_kechirasiz_deb_aytdim,я сказал извините,jumlalar,предложения,continuous,no_samples
+sgn_00003187,men_rahmat_aytdim,я сказал спасибо,jumlalar,предложения,continuous,no_samples
+sgn_00003188,men_tabrik_aytdim,я поздравил,jumlalar,предложения,continuous,no_samples
+sgn_00003189,bugun_men_yig'ladim,сегодня я плакал,jumlalar,предложения,continuous,no_samples
+sgn_00003190,bugun_men_kuldim,сегодня я смеялся,jumlalar,предложения,continuous,no_samples
+sgn_00003191,men_tabassum_qildim,я улыбнулся,jumlalar,предложения,continuous,no_samples
+sgn_00003192,men_qattiq_kuldim,я громко смеялся,jumlalar,предложения,continuous,no_samples
+sgn_00003193,men_yig'lab_yubordim,я расплакался,jumlalar,предложения,continuous,no_samples
+sgn_00003194,bugun_men_quvondim,сегодня я обрадовался,jumlalar,предложения,continuous,no_samples
+sgn_00003195,men_xafa_bo'lib_qoldim,я расстроился,jumlalar,предложения,continuous,no_samples
+sgn_00003196,bugun_men_hayronman,сегодня я удивлён,jumlalar,предложения,continuous,no_samples
+sgn_00003197,bugun_men_hayratda,сегодня я в изумлении,jumlalar,предложения,continuous,no_samples
+sgn_00003198,men_qo'rquv_his_qilyapman,я чувствую страх,jumlalar,предложения,continuous,no_samples
+sgn_00003199,men_xavfsiz_his_qilyapman,я чувствую себя в безопасности,jumlalar,предложения,continuous,no_samples
+sgn_00003200,men_yolg'iz_his_qilyapman,я чувствую себя одиноким,jumlalar,предложения,continuous,no_samples
+sgn_00003201,men_baxtli_his_qilyapman,я чувствую себя счастливым,jumlalar,предложения,continuous,no_samples
+sgn_00003202,men_g'amgin_his_qilyapman,я чувствую себя грустным,jumlalar,предложения,continuous,no_samples
+sgn_00003203,men_energiyam_ko'p,у меня много энергии,jumlalar,предложения,continuous,no_samples
+sgn_00003204,men_halsiz_his_qilyapman,я чувствую слабость,jumlalar,предложения,continuous,no_samples
+sgn_00003205,men_yaxshi_kayfiyatdaman,у меня хорошее настроение,jumlalar,предложения,continuous,no_samples
+sgn_00003206,men_yomon_kayfiyatdaman,у меня плохое настроение,jumlalar,предложения,continuous,no_samples
+sgn_00003207,men_kayfiyatim_ko'tarildi,моё настроение поднялось,jumlalar,предложения,continuous,no_samples
+sgn_00003208,men_kayfiyatim_tushdi,моё настроение упало,jumlalar,предложения,continuous,no_samples
+sgn_00003209,men_do'stlarim_bilan_xursandman,я рад с друзьями,jumlalar,предложения,continuous,no_samples
+sgn_00003210,men_oilam_bilan_baxtliman,я счастлив с семьёй,jumlalar,предложения,continuous,no_samples
+sgn_00003211,men_yolg'iz_qolganimda_g'amginman,"когда я один, я грустный",jumlalar,предложения,continuous,no_samples
+sgn_00003212,men_musiqa_tinglaganda_tinchlanaman,"когда слушаю музыку, успокаиваюсь",jumlalar,предложения,continuous,no_samples
+sgn_00003213,men_sport_qilganda_yaxshi_his_qilaman,"когда занимаюсь спортом, чувствую себя хорошо",jumlalar,предложения,continuous,no_samples
+sgn_00003214,men_yaxshi_yangilik_eshitdim,я услышал хорошую новость,jumlalar,предложения,continuous,no_samples
+sgn_00003215,men_yomon_yangilik_eshitdim,я услышал плохую новость,jumlalar,предложения,continuous,no_samples
+sgn_00003216,men_xursand_bo'lib_qoldim,я обрадовался,jumlalar,предложения,continuous,no_samples
+sgn_00003217,men_sabr_qilyapman,я терплю,jumlalar,предложения,continuous,no_samples
+sgn_00003218,men_sabrim_tugadi,моё терпение кончилось,jumlalar,предложения,continuous,no_samples
+sgn_00003219,men_tinchlikni_xohlayman,я хочу мира,jumlalar,предложения,continuous,no_samples
+sgn_00003220,men_adolatni_xohlayman,я хочу справедливости,jumlalar,предложения,continuous,no_samples
+sgn_00003221,men_erkinlikni_qadrlayman,я ценю свободу,jumlalar,предложения,continuous,no_samples
+sgn_00003222,men_do'stlikni_qadrlayman,я ценю дружбу,jumlalar,предложения,continuous,no_samples
+sgn_00003223,men_sevgini_qadrlayman,я ценю любовь,jumlalar,предложения,continuous,no_samples
+sgn_00003224,men_hayotdan_zavqlanaman,я наслаждаюсь жизнью,jumlalar,предложения,continuous,no_samples
+sgn_00003225,men_kelajakdan_umidliman,я надеюсь на будущее,jumlalar,предложения,continuous,no_samples
+sgn_00003226,men_o'tmishni_eslarmon,я вспоминаю прошлое,jumlalar,предложения,continuous,no_samples
+sgn_00003227,men_hozirgi_paytdan_zavqlanaman,я наслаждаюсь настоящим,jumlalar,предложения,continuous,no_samples
+sgn_00003228,men_o'zimga_ishonaman,я верю в себя,jumlalar,предложения,continuous,no_samples
+sgn_00003229,men_hech_qachon_taslim_bo'lmayman,я никогда не сдамся,jumlalar,предложения,continuous,no_samples
+sgn_0694,his-tuyg'u,чувство,kerak_emas,не_нужно,isolated,no_samples
+sgn_0702,kulgu,смех,kerak_emas,не_нужно,isolated,no_samples
+sgn_0712,og'riq,боль,kerak_emas,не_нужно,isolated,no_samples
+sgn_0716,qizg'in,горячий,kerak_emas,не_нужно,isolated,no_samples
+sgn_0723,saxiy,щедрый,kerak_emas,не_нужно,isolated,no_samples
+sgn_0725,shok,шок,kerak_emas,не_нужно,isolated,no_samples
+sgn_0727,tirishqoq,старательный,kerak_emas,не_нужно,isolated,no_samples
+sgn_0734,yopiq,замкнутый,kerak_emas,не_нужно,isolated,no_samples
+sgn_0739,zavq,удовольствие,kerak_emas,не_нужно,isolated,no_samples
+sgn_0741,1,1_(первый),kerak_emas,не_нужно,isolated,no_samples
+sgn_0742,10,10_(десятый),kerak_emas,не_нужно,isolated,no_samples
+sgn_0745,4,4_(четвёртый),kerak_emas,не_нужно,isolated,no_samples
+sgn_0746,5,5_(пятый),kerak_emas,не_нужно,isolated,no_samples
+sgn_0747,6,6_(шестой),kerak_emas,не_нужно,isolated,no_samples
+sgn_0748,7,7_(седьмой),kerak_emas,не_нужно,isolated,no_samples
+sgn_0749,8,8_(восьмой),kerak_emas,не_нужно,isolated,no_samples
+sgn_0750,9,9_(девятый),kerak_emas,не_нужно,isolated,no_samples
+sgn_0751,beshinchi,пятый,kerak_emas,не_нужно,isolated,no_samples
+sgn_0752,beshinchi_xona,пятая_комната,kerak_emas,не_нужно,isolated,no_samples
+sgn_0753,birinchi,первый,kerak_emas,не_нужно,isolated,no_samples
+sgn_0754,birinchi_orin,первое_место,kerak_emas,не_нужно,isolated,no_samples
+sgn_0755,birinchi_raqam,первая_цифра,kerak_emas,не_нужно,isolated,no_samples
+sgn_0756,ikkinchi,второй,kerak_emas,не_нужно,isolated,no_samples
+sgn_0757,ikkinchi_joy,второе_место,kerak_emas,не_нужно,isolated,no_samples
+sgn_0758,o'ninchi,десятый,kerak_emas,не_нужно,isolated,no_samples
+sgn_0759,oltinchi,шестой,kerak_emas,не_нужно,isolated,no_samples
+sgn_0760,oltinchi_qavat,шестой_этаж,kerak_emas,не_нужно,isolated,no_samples
+sgn_0761,sakkizinchi,восьмой,kerak_emas,не_нужно,isolated,no_samples
+sgn_0762,to'qqizinchi,девятый,kerak_emas,не_нужно,isolated,no_samples
+sgn_0763,to'rtinchi,четвёртый,kerak_emas,не_нужно,isolated,no_samples
+sgn_0764,uchinchi,третий,kerak_emas,не_нужно,isolated,no_samples
+sgn_0765,yettinchi,седьмой,kerak_emas,не_нужно,isolated,no_samples
+sgn_0769,anamnez,анамнез_(история_болезни),kerak_emas,не_нужно,isolated,no_samples
+sgn_0771,anesteziya,анестезия,kerak_emas,не_нужно,isolated,no_samples
+sgn_0773,antibiotik,антибиотик,kerak_emas,не_нужно,isolated,no_samples
+sgn_0776,aravacha,инвалидная_коляска,kerak_emas,не_нужно,isolated,no_samples
+sgn_0778,asorat,осложнение,kerak_emas,не_нужно,isolated,no_samples
+sgn_0779,assistent,ассистент,kerak_emas,не_нужно,isolated,no_samples
+sgn_0785,bemor_kartasi,карта_пациента,kerak_emas,не_нужно,isolated,no_samples
+sgn_0786,bemor_kuzatuvchisi,сиделка,kerak_emas,не_нужно,isolated,no_samples
+sgn_0787,bint,бинт,kerak_emas,не_нужно,isolated,no_samples
+sgn_0790,bolim,отделение,kerak_emas,не_нужно,isolated,no_samples
+sgn_0792,burun_tomchisi,капли_для_носа,kerak_emas,не_нужно,isolated,no_samples
+sgn_0794,chandiq,шрам,kerak_emas,не_нужно,isolated,no_samples
+sgn_0797,davolovchi,лечащий_врач,kerak_emas,не_нужно,isolated,no_samples
+sgn_0798,dezinfeksiya,дезинфекция,kerak_emas,не_нужно,isolated,no_samples
+sgn_0800,diagnostika,диагностика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0801,dispanser,диспансер,kerak_emas,не_нужно,isolated,no_samples
+sgn_0802,doimiy_nazorat,постоянный_контроль,kerak_emas,не_нужно,isolated,no_samples
+sgn_0803,donor,донор,kerak_emas,не_нужно,isolated,no_samples
+sgn_0806,doza,доза,kerak_emas,не_нужно,isolated,no_samples
+sgn_0808,ehtiyot_bo'lmoq,внимательно,kerak_emas,не_нужно,isolated,no_samples
+sgn_0810,ekspress-test,экспресс-тест,kerak_emas,не_нужно,isolated,no_samples
+sgn_0811,ekstremal_holat,экстренный_случай,kerak_emas,не_нужно,isolated,no_samples
+sgn_0812,eku,эко_(экстракорпоральное_оплодотворение),kerak_emas,не_нужно,isolated,no_samples
+sgn_0813,elektron_karta,электронная_карта,kerak_emas,не_нужно,isolated,no_samples
+sgn_0816,endoskopiya,эндоскопия,kerak_emas,не_нужно,isolated,no_samples
+sgn_0818,epidemolog,эпидемиолог,kerak_emas,не_нужно,isolated,no_samples
+sgn_0820,erta_tashxis,ранняя_диагностика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0824,farmatsevt,фармацевт,kerak_emas,не_нужно,isolated,no_samples
+sgn_0825,farmatsevtika,фармацевтика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0827,fizioterapiya,физиотерапия,kerak_emas,не_нужно,isolated,no_samples
+sgn_0828,fonendoskop,фонендоскоп_(стетоскоп),kerak_emas,не_нужно,isolated,no_samples
+sgn_0829,foydalanish_yoriqnomasi,инструкция_по_применению,kerak_emas,не_нужно,isolated,no_samples
+sgn_0831,gematolog,гематолог,kerak_emas,не_нужно,isolated,no_samples
+sgn_0832,genetika,генетика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0833,gepatit,гепатит,kerak_emas,не_нужно,isolated,no_samples
+sgn_0836,gipertoniya,гипертония,kerak_emas,не_нужно,isolated,no_samples
+sgn_0838,glukometr,глюкометр,kerak_emas,не_нужно,isolated,no_samples
+sgn_0839,gormonal_muvozanat,гормональный_баланс,kerak_emas,не_нужно,isolated,no_samples
+sgn_0840,gospital,госпиталь,kerak_emas,не_нужно,isolated,no_samples
+sgn_0841,gospitalizatsiya,госпитализация,kerak_emas,не_нужно,isolated,no_samples
+sgn_0842,gripp,грипп,kerak_emas,не_нужно,isolated,no_samples
+sgn_0843,guruhlash,группировка,kerak_emas,не_нужно,isolated,no_samples
+sgn_0849,ichki_kasalliklar_bolimi,терапевтическое_отделение,kerak_emas,не_нужно,isolated,no_samples
+sgn_0850,ilmiy_tadqiqot_markazi,научно-исследовательский_центр,kerak_emas,не_нужно,isolated,no_samples
+sgn_0853,infeksion,инфекционный,kerak_emas,не_нужно,isolated,no_samples
+sgn_0855,intensiv,интенсивный,kerak_emas,не_нужно,isolated,no_samples
+sgn_0856,inyeksiya,инъекция,kerak_emas,не_нужно,isolated,no_samples
+sgn_0857,ishtaha,аппетит,kerak_emas,не_нужно,isolated,no_samples
+sgn_0858,isitma,температура_(жар),kerak_emas,не_нужно,isolated,no_samples
+sgn_0861,jarrohlik,хирургия,kerak_emas,не_нужно,isolated,no_samples
+sgn_0866,kardiologiya,кардиология,kerak_emas,не_нужно,isolated,no_samples
+sgn_0868,kassa,касса,kerak_emas,не_нужно,isolated,no_samples
+sgn_0870,klinika,клиника,kerak_emas,не_нужно,isolated,no_samples
+sgn_0871,konsultatsiya,консультация,kerak_emas,не_нужно,isolated,no_samples
+sgn_0872,korik,осмотр,kerak_emas,не_нужно,isolated,no_samples
+sgn_0876,laborant,лаборант,kerak_emas,не_нужно,isolated,no_samples
+sgn_0877,laboratoriya,лаборатория,kerak_emas,не_нужно,isolated,no_samples
+sgn_0886,morg,морг,kerak_emas,не_нужно,isolated,no_samples
+sgn_0887,mrt,мрт,kerak_emas,не_нужно,isolated,no_samples
+sgn_0888,muolaja,процедура,kerak_emas,не_нужно,isolated,no_samples
+sgn_0889,mushak_orasiga_ukol_qilish,внутримышечная_инъекция,kerak_emas,не_нужно,isolated,no_samples
+sgn_0892,narkoz,наркоз,kerak_emas,не_нужно,isolated,no_samples
+sgn_0894,nefrolog,нефролог,kerak_emas,не_нужно,isolated,no_samples
+sgn_0899,ogriq_qoldiruvchi,обезболивающее,kerak_emas,не_нужно,isolated,no_samples
+sgn_0900,onkologiya,онкология,kerak_emas,не_нужно,isolated,no_samples
+sgn_0902,opka_shifokori,пульмонолог,kerak_emas,не_нужно,isolated,no_samples
+sgn_0903,organizm,организм,kerak_emas,не_нужно,isolated,no_samples
+sgn_0905,palata,палата,kerak_emas,не_нужно,isolated,no_samples
+sgn_0908,pediatr,педиатр,kerak_emas,не_нужно,isolated,no_samples
+sgn_0909,plastik_jarrohlik,пластическая_хирургия,kerak_emas,не_нужно,isolated,no_samples
+sgn_0910,poliklinika,поликлиника,kerak_emas,не_нужно,isolated,no_samples
+sgn_0911,profilaktika,профилактика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0914,qizilcha,корь,kerak_emas,не_нужно,isolated,no_samples
+sgn_0916,qon_analizi,анализ_крови,kerak_emas,не_нужно,isolated,no_samples
+sgn_0917,qon_bosimi,артериальное_давление,kerak_emas,не_нужно,isolated,no_samples
+sgn_0921,qonash,кровотечение,kerak_emas,не_нужно,isolated,no_samples
+sgn_0922,radiatsiya,радиация,kerak_emas,не_нужно,isolated,no_samples
+sgn_0923,reabilitatsiya,реабилитация,kerak_emas,не_нужно,isolated,no_samples
+sgn_0924,reanimatsiya,реанимация,kerak_emas,не_нужно,isolated,no_samples
+sgn_0925,registratura,регистратура,kerak_emas,не_нужно,isolated,no_samples
+sgn_0927,retsept,рецепт,kerak_emas,не_нужно,isolated,no_samples
+sgn_0929,sanatoriya,санаторий,kerak_emas,не_нужно,isolated,no_samples
+sgn_0930,sanitariya,санитария,kerak_emas,не_нужно,isolated,no_samples
+sgn_0931,saraton,рак,kerak_emas,не_нужно,isolated,no_samples
+sgn_0932,sariq_kasallik,желтуха,kerak_emas,не_нужно,isolated,no_samples
+sgn_0935,shifoxona,больница,kerak_emas,не_нужно,isolated,no_samples
+sgn_0936,shikast,травма,kerak_emas,не_нужно,isolated,no_samples
+sgn_0938,simptom,симптом,kerak_emas,не_нужно,isolated,no_samples
+sgn_0941,soglomlashtirish,оздоровление,kerak_emas,не_нужно,isolated,no_samples
+sgn_0943,steril,стерильный,kerak_emas,не_нужно,isolated,no_samples
+sgn_0946,tabib,целитель,kerak_emas,не_нужно,isolated,no_samples
+sgn_0947,tabletka,таблетка,kerak_emas,не_нужно,isolated,no_samples
+sgn_0948,tabletkalar,таблетки,kerak_emas,не_нужно,isolated,no_samples
+sgn_0949,tahlil,анализ,kerak_emas,не_нужно,isolated,no_samples
+sgn_0951,tashrif_buyurmoq,посещать,kerak_emas,не_нужно,isolated,no_samples
+sgn_0952,tashxis,диагноз,kerak_emas,не_нужно,isolated,no_samples
+sgn_0954,terapiya,терапия,kerak_emas,не_нужно,isolated,no_samples
+sgn_0956,termometr,термометр,kerak_emas,не_нужно,isolated,no_samples
+sgn_0960,tibbiyot_xodimi,медицинский_работник,kerak_emas,не_нужно,isolated,no_samples
+sgn_0961,"tibbiyot,_tabobat",медицина,kerak_emas,не_нужно,isolated,no_samples
+sgn_0962,tiklanish,восстановление,kerak_emas,не_нужно,isolated,no_samples
+sgn_0964,tomirga_ukol_qilish,внутривенная_инъекция,kerak_emas,не_нужно,isolated,no_samples
+sgn_0965,tomografiya,томография,kerak_emas,не_нужно,isolated,no_samples
+sgn_0967,ukol,укол,kerak_emas,не_нужно,isolated,no_samples
+sgn_0968,umumiy_terapiya,общая_терапия,kerak_emas,не_нужно,isolated,no_samples
+sgn_0970,umurtqa_pog'onasi,позвоночник,kerak_emas,не_нужно,isolated,no_samples
+sgn_0972,urolog,уролог,kerak_emas,не_нужно,isolated,no_samples
+sgn_0976,vabo,холера,kerak_emas,не_нужно,isolated,no_samples
+sgn_0977,vaksina,вакцина,kerak_emas,не_нужно,isolated,no_samples
+sgn_0978,venerologiya,венерология,kerak_emas,не_нужно,isolated,no_samples
+sgn_0979,virus,вирус,kerak_emas,не_нужно,isolated,no_samples
+sgn_0980,vitamin,витамин,kerak_emas,не_нужно,isolated,no_samples
+sgn_0981,yara,рана,kerak_emas,не_нужно,isolated,no_samples
+sgn_0984,yotoq,кровать,kerak_emas,не_нужно,isolated,no_samples
+sgn_0985,yuqumli_kasallik,зараза,kerak_emas,не_нужно,isolated,no_samples
+sgn_0987,yurak_xurujи,инфаркт,kerak_emas,не_нужно,isolated,no_samples
+sgn_0988,yurak_yetishmovchiligi,сердечная_недостаточность,kerak_emas,не_нужно,isolated,no_samples
+sgn_0989,yurak-qon_tomir_kasalliklari,сердечно-сосудистые_заболевания,kerak_emas,не_нужно,isolated,no_samples
+sgn_0992,aerobika,аэробика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0993,akrobatika,акробатика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0994,antidoping,антидопинг,kerak_emas,не_нужно,isolated,no_samples
+sgn_0995,armrestling,армрестлинг,kerak_emas,не_нужно,isolated,no_samples
+sgn_0996,arqon_tortish,перетягивание_каната,kerak_emas,не_нужно,isolated,no_samples
+sgn_0997,atletika,атлетика,kerak_emas,не_нужно,isolated,no_samples
+sgn_0998,aykido,айкидо,kerak_emas,не_нужно,isolated,no_samples
+sgn_1000,ayollar_futboli,женский_футбол,kerak_emas,не_нужно,isolated,no_samples
+sgn_1002,badiiy_suzish,синхронное_плавание,kerak_emas,не_нужно,isolated,no_samples
+sgn_1007,baydarka,байдарка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1008,bellashuv,соревнование,kerak_emas,не_нужно,isolated,no_samples
+sgn_1009,beysbol,бейсбол,kerak_emas,не_нужно,isolated,no_samples
+sgn_1010,biatlon,биатлон,kerak_emas,не_нужно,isolated,no_samples
+sgn_1016,burchak_topi,угловой_удар,kerak_emas,не_нужно,isolated,no_samples
+sgn_1018,changida_yugurish,лыжные_гонки,kerak_emas,не_нужно,isolated,no_samples
+sgn_1019,chavandozlik,конный_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1020,chempion,чемпион,kerak_emas,не_нужно,isolated,no_samples
+sgn_1021,chetlatilish,удаление_с_поля,kerak_emas,не_нужно,isolated,no_samples
+sgn_1022,chorak_final,четвертьфинал,kerak_emas,не_нужно,isolated,no_samples
+sgn_1023,dam_olish,отдых,kerak_emas,не_нужно,isolated,no_samples
+sgn_1025,domino,домино,kerak_emas,не_нужно,isolated,no_samples
+sgn_1026,doping,допинг,kerak_emas,не_нужно,isolated,no_samples
+sgn_1028,duel,дуэль,kerak_emas,не_нужно,isolated,no_samples
+sgn_1029,durrang,ничья,kerak_emas,не_нужно,isolated,no_samples
+sgn_1030,dzyudo,дзюдо,kerak_emas,не_нужно,isolated,no_samples
+sgn_1031,ekipirovka,экипировка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1033,erkin_kurash,вольная_борьба,kerak_emas,не_нужно,isolated,no_samples
+sgn_1034,eshkak_eshish,гребля,kerak_emas,не_нужно,isolated,no_samples
+sgn_1035,estafeta,эстафета,kerak_emas,не_нужно,isolated,no_samples
+sgn_1037,figuralik_uchish,фигурное_катание,kerak_emas,не_нужно,isolated,no_samples
+sgn_1039,finish,финиш,kerak_emas,не_нужно,isolated,no_samples
+sgn_1043,galaba,победа,kerak_emas,не_нужно,isolated,no_samples
+sgn_1044,gandbol,гандбол,kerak_emas,не_нужно,isolated,no_samples
+sgn_1045,gimnastika,гимнастика,kerak_emas,не_нужно,isolated,no_samples
+sgn_1047,golbol,голбол_(паралимпийский_спорт_для_слабовидящих),kerak_emas,не_нужно,isolated,no_samples
+sgn_1048,golf,гольф,kerak_emas,не_нужно,isolated,no_samples
+sgn_1049,golib,победитель,kerak_emas,не_нужно,isolated,no_samples
+sgn_1055,hushtak,свисток,kerak_emas,не_нужно,isolated,no_samples
+sgn_1056,instruktor,инструктор,kerak_emas,не_нужно,isolated,no_samples
+sgn_1059,jamoa_sardori,капитан_команды,kerak_emas,не_нужно,isolated,no_samples
+sgn_1060,jamoa_tarkibi,состав_команды,kerak_emas,не_нужно,isolated,no_samples
+sgn_1062,jismoniy_mashgulot,физические_упражнения,kerak_emas,не_нужно,isolated,no_samples
+sgn_1066,kartalar,карты,kerak_emas,не_нужно,isolated,no_samples
+sgn_1067,kibersport,киберспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1069,konkida_poyga,конькобежный_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1070,kopkari,кокбури_(конная_игра),kerak_emas,не_нужно,isolated,no_samples
+sgn_1071,korsatkich,показатель,kerak_emas,не_нужно,isolated,no_samples
+sgn_1072,kort,корт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1073,kriket,крикет,kerak_emas,не_нужно,isolated,no_samples
+sgn_1074,kross,кросс,kerak_emas,не_нужно,isolated,no_samples
+sgn_1075,kung-fu,кунг-фу,kerak_emas,не_нужно,isolated,no_samples
+sgn_1078,liga,лига,kerak_emas,не_нужно,isolated,no_samples
+sgn_1082,mashq_dasturi,программа_тренировок,kerak_emas,не_нужно,isolated,no_samples
+sgn_1083,mashq,тренировка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1086,miltiqdan_otish,стрельба_из_ружья,kerak_emas,не_нужно,isolated,no_samples
+sgn_1087,motosport,мотоспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1093,nishon,мишень,kerak_emas,не_нужно,isolated,no_samples
+sgn_1094,nokaut,нокаут,kerak_emas,не_нужно,isolated,no_samples
+sgn_1097,o'yin,игра,kerak_emas,не_нужно,isolated,no_samples
+sgn_1100,ogir_atletika,тяжёлая_атлетика,kerak_emas,не_нужно,isolated,no_samples
+sgn_1102,olimpiya_shiori,олимпийский_девиз,kerak_emas,не_нужно,isolated,no_samples
+sgn_1105,ot_sporti,конный_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1106,oyin,игра,kerak_emas,не_нужно,isolated,no_samples
+sgn_1107,oyin_vaqti,игровое_время,kerak_emas,не_нужно,isolated,no_samples
+sgn_1109,oyinga_tushish,выход_на_поле,kerak_emas,не_нужно,isolated,no_samples
+sgn_1111,pas,пас,kerak_emas,не_нужно,isolated,no_samples
+sgn_1112,pauerlifting,пауэрлифтинг,kerak_emas,не_нужно,isolated,no_samples
+sgn_1114,poyga,гонка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1115,press-konferensiya,пресс-конференция,kerak_emas,не_нужно,isolated,no_samples
+sgn_1116,qatnashchi,участник,kerak_emas,не_нужно,isolated,no_samples
+sgn_1117,qayiq,лодка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1119,qizil_chiziq,красная_линия,kerak_emas,не_нужно,isolated,no_samples
+sgn_1120,qor_aravasi,санки,kerak_emas,не_нужно,isolated,no_samples
+sgn_1123,raketka,ракетка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1124,ralli,ралли,kerak_emas,не_нужно,isolated,no_samples
+sgn_1125,raqib,соперник,kerak_emas,не_нужно,isolated,no_samples
+sgn_1126,raqobat,конкуренция,kerak_emas,не_нужно,isolated,no_samples
+sgn_1127,raqobatlashish,соперничать,kerak_emas,не_нужно,isolated,no_samples
+sgn_1128,regbi,регби,kerak_emas,не_нужно,isolated,no_samples
+sgn_1129,rekord,рекорд,kerak_emas,не_нужно,isolated,no_samples
+sgn_1131,ring,ринг,kerak_emas,не_нужно,isolated,no_samples
+sgn_1133,saralash_bosqichi,отборочный_этап,kerak_emas,не_нужно,isolated,no_samples
+sgn_1134,savat,корзина_(баскетбол),kerak_emas,не_нужно,isolated,no_samples
+sgn_1137,shayba,шайба,kerak_emas,не_нужно,isolated,no_samples
+sgn_1138,simulyatsiya,симуляция,kerak_emas,не_нужно,isolated,no_samples
+sgn_1139,snoubord,сноуборд,kerak_emas,не_нужно,isolated,no_samples
+sgn_1141,sohil_voleyboli,пляжный_волейбол,kerak_emas,не_нужно,isolated,no_samples
+sgn_1144,sport_sharhlovchisi,спортивный_комментатор,kerak_emas,не_нужно,isolated,no_samples
+sgn_1146,sport_yurishl,ходьба_спортивная,kerak_emas,не_нужно,isolated,no_samples
+sgn_1147,sportchi,спортсмен,kerak_emas,не_нужно,isolated,no_samples
+sgn_1148,sprint,спринт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1151,statistika,статистика,kerak_emas,не_нужно,isolated,no_samples
+sgn_1154,suv_polosi,водное_поло,kerak_emas,не_нужно,isolated,no_samples
+sgn_1155,suv_sporti,водный_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1156,suvga_sakrash,прыжки_в_воду,kerak_emas,не_нужно,isolated,no_samples
+sgn_1160,tafsilotlar,подробности,kerak_emas,не_нужно,isolated,no_samples
+sgn_1161,taktika,тактика,kerak_emas,не_нужно,isolated,no_samples
+sgn_1162,taqdimot,презентация,kerak_emas,не_нужно,isolated,no_samples
+sgn_1163,taym,тайм,kerak_emas,не_нужно,isolated,no_samples
+sgn_1168,tirishqoqlik,упорство,kerak_emas,не_нужно,isolated,no_samples
+sgn_1170,tog_changisi,горнолыжный_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1171,tog_sporti,горный_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1172,top,мяч,kerak_emas,не_нужно,isolated,no_samples
+sgn_1174,transfer,трансфер,kerak_emas,не_нужно,isolated,no_samples
+sgn_1175,triatlon,триатлон,kerak_emas,не_нужно,isolated,no_samples
+sgn_1176,turnir,турнир,kerak_emas,не_нужно,isolated,no_samples
+sgn_1177,tushdi,сошёл,kerak_emas,не_нужно,isolated,no_samples
+sgn_1178,tushib_qolmoq,попасть_в,kerak_emas,не_нужно,isolated,no_samples
+sgn_1179,uloqtirish,метание,kerak_emas,не_нужно,isolated,no_samples
+sgn_1181,ustunlik,преимущество,kerak_emas,не_нужно,isolated,no_samples
+sgn_1183,velosport,велоспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1185,xalq_oyinlari,народные_игры,kerak_emas,не_нужно,isolated,no_samples
+sgn_1187,yarim_final,полуфинал,kerak_emas,не_нужно,isolated,no_samples
+sgn_1191,yo'llanma,путёвка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1192,yozgi_sport,летний_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1193,yugurish,бег,kerak_emas,не_нужно,isolated,no_samples
+sgn_1194,yunon-rum_kurashi,греко-римская_борьба,kerak_emas,не_нужно,isolated,no_samples
+sgn_1196,yutish,проглотить_/_побеждать,kerak_emas,не_нужно,isolated,no_samples
+sgn_1197,yutqazish,проигрыш,kerak_emas,не_нужно,isolated,no_samples
+sgn_1198,yutqizish,проиграть,kerak_emas,не_нужно,isolated,no_samples
+sgn_1199,yutuq,достижение,kerak_emas,не_нужно,isolated,no_samples
+sgn_1200,zamonaviy_sport,современный_спорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1201,zarba,удар,kerak_emas,не_нужно,isolated,no_samples
+sgn_1202,zarba_beruvchi,бьющий,kerak_emas,не_нужно,isolated,no_samples
+sgn_1225,chiptaxona,билетная_касса,kerak_emas,не_нужно,isolated,no_samples
+sgn_1240,gaz,газ,kerak_emas,не_нужно,isolated,no_samples
+sgn_1241,gaz-balon,газовый_баллон,kerak_emas,не_нужно,isolated,no_samples
+sgn_1242,gibrid_mashina,гибридный_автомобиль,kerak_emas,не_нужно,isolated,no_samples
+sgn_1243,gildirak,колесо,kerak_emas,не_нужно,isolated,no_samples
+sgn_1246,harbiy_transport,военный_транспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1247,havo_transporti,воздушный_транспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1249,haydovchisiz_avtomobil,беспилотный_автомобиль,kerak_emas,не_нужно,isolated,no_samples
+sgn_1251,jamoat_transporti,общественный_транспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1254,kapot,капот,kerak_emas,не_нужно,isolated,no_samples
+sgn_1255,karvon,конвой_/_каравил,kerak_emas,не_нужно,isolated,no_samples
+sgn_1262,kran,кран,kerak_emas,не_нужно,isolated,no_samples
+sgn_1263,krossover,кроссовер,kerak_emas,не_нужно,isolated,no_samples
+sgn_1264,kruiz,круиз,kerak_emas,не_нужно,isolated,no_samples
+sgn_1267,magistral,магистраль,kerak_emas,не_нужно,isolated,no_samples
+sgn_1271,metan,метан,kerak_emas,не_нужно,isolated,no_samples
+sgn_1274,mikroavtobus,микроавтобус,kerak_emas,не_нужно,isolated,no_samples
+sgn_1276,miniven,минивэн,kerak_emas,не_нужно,isolated,no_samples
+sgn_1277,mobil_ilova,мобильное_приложение,kerak_emas,не_нужно,isolated,no_samples
+sgn_1282,navigatsiya,навигация,kerak_emas,не_нужно,isolated,no_samples
+sgn_1287,ot-arava,лошадь_с_повозкой,kerak_emas,не_нужно,isolated,no_samples
+sgn_1288,parom,паром,kerak_emas,не_нужно,isolated,no_samples
+sgn_1289,parovoz,паровоз,kerak_emas,не_нужно,isolated,no_samples
+sgn_1290,parus,парус,kerak_emas,не_нужно,isolated,no_samples
+sgn_1291,parvoz,полёт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1293,piyoda,пешеход,kerak_emas,не_нужно,isolated,no_samples
+sgn_1294,piyodalar_otish_yolakchasi,пешеходная_дорожка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1296,pochta_mashinasi,почтовая_машина,kerak_emas,не_нужно,isolated,no_samples
+sgn_1297,port,порт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1301,propan,пропан,kerak_emas,не_нужно,isolated,no_samples
+sgn_1302,prospekt,проспект,kerak_emas,не_нужно,isolated,no_samples
+sgn_1303,qoshimcha_gildirak,запасное_колесо,kerak_emas,не_нужно,isolated,no_samples
+sgn_1304,radar,радар,kerak_emas,не_нужно,isolated,no_samples
+sgn_1306,reys,рейс,kerak_emas,не_нужно,isolated,no_samples
+sgn_1310,salon,салон_(автосалон),kerak_emas,не_нужно,isolated,no_samples
+sgn_1315,shaxsiy_avtomobil,личный_автомобиль,kerak_emas,не_нужно,isolated,no_samples
+sgn_1316,shina,шина,kerak_emas,не_нужно,isolated,no_samples
+sgn_1317,shlagbaum,шлагбаум,kerak_emas,не_нужно,isolated,no_samples
+sgn_1318,signal,сигнал,kerak_emas,не_нужно,isolated,no_samples
+sgn_1319,skuter,скутер,kerak_emas,не_нужно,isolated,no_samples
+sgn_1320,stansiya,станция,kerak_emas,не_нужно,isolated,no_samples
+sgn_1323,taksi_chaqirish,вызов_такси,kerak_emas,не_нужно,isolated,no_samples
+sgn_1326,tashuvchi,перевозчик,kerak_emas,не_нужно,isolated,no_samples
+sgn_1328,telegraf,телеграф,kerak_emas,не_нужно,isolated,no_samples
+sgn_1329,temir_yol,железная_дорога,kerak_emas,не_нужно,isolated,no_samples
+sgn_1332,texpasport,техпаспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1334,tezlik_cheklovi,ограничение_скорости,kerak_emas,не_нужно,isolated,no_samples
+sgn_1337,tortish,буксировка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1340,transport,транспорт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1341,transport_vositasi,транспортное_средство,kerak_emas,не_нужно,isolated,no_samples
+sgn_1346,uchoq,самолёт,kerak_emas,не_нужно,isolated,no_samples
+sgn_1353,yer_ostidan_otish_joyi,подземный_переход,kerak_emas,не_нужно,isolated,no_samples
+sgn_1354,yer_usti_koprik,надземный_мост,kerak_emas,не_нужно,isolated,no_samples
+sgn_1355,yer_ustidan_otish_joyi,надземный_переход,kerak_emas,не_нужно,isolated,no_samples
+sgn_1362,zona,зона,kerak_emas,не_нужно,isolated,no_samples
+sgn_1363,adolat,справедливость,mahalla,махалля,isolated,no_samples
+sgn_1364,ahil,дружный,mahalla,махалля,isolated,no_samples
+sgn_1365,aholi,население,mahalla,махалля,isolated,no_samples
+sgn_1366,ariq,арык_(оросительный_канал),mahalla,махалля,isolated,no_samples
+sgn_1367,ayollar_daftari,женский_реестр,mahalla,махалля,isolated,no_samples
+sgn_1368,ayollar_qomitasi,женский_комитет,mahalla,махалля,isolated,no_samples
+sgn_1369,ayvon,айван_(веранда),mahalla,махалля,isolated,no_samples
+sgn_1370,bagrikenglik,великодушие,mahalla,махалля,isolated,no_samples
+sgn_1371,baraka,благодать,mahalla,махалля,isolated,no_samples
+sgn_1372,barqarorlik,стабильность,mahalla,махалля,isolated,no_samples
+sgn_1373,birdamlik,единство,mahalla,махалля,isolated,no_samples
+sgn_1374,birlashuv,объединение,mahalla,махалля,isolated,no_samples
+sgn_1375,bog,сад,mahalla,махалля,isolated,no_samples
+sgn_1376,bolalar_maydonchasi,детская_площадка,mahalla,махалля,isolated,no_samples
+sgn_1377,bolalik,детство,mahalla,махалля,isolated,no_samples
+sgn_1378,boshqaruv,управление,mahalla,махалля,isolated,no_samples
+sgn_1379,chorpoya,чорпоя_(деревянный_помост),mahalla,махалля,isolated,no_samples
+sgn_1380,choyxona,чайхана,mahalla,махалля,isolated,no_samples
+sgn_1381,dala,поле,mahalla,махалля,isolated,no_samples
+sgn_1382,dala_dokoni,полевая_лавка,mahalla,махалля,isolated,no_samples
+sgn_1383,darddosh,собеседник_(душевный_поверенный),mahalla,махалля,isolated,no_samples
+sgn_1384,davra,собрание,mahalla,махалля,isolated,no_samples
+sgn_1385,duo,молитва_/_дуа,mahalla,махалля,isolated,no_samples
+sgn_1386,ehtirom,почтение,mahalla,махалля,isolated,no_samples
+sgn_1387,erkinlik,свобода,mahalla,махалля,isolated,no_samples
+sgn_1388,esonlik,благополучие,mahalla,махалля,isolated,no_samples
+sgn_1389,etiqod,вера,mahalla,махалля,isolated,no_samples
+sgn_1390,faol,активный,mahalla,махалля,isolated,no_samples
+sgn_1391,ferma,ферма,mahalla,махалля,isolated,no_samples
+sgn_1392,fidokorlik,самоотверженность,mahalla,махалля,isolated,no_samples
+sgn_1393,fikr_almashish,обмен_мнениями,mahalla,махалля,isolated,no_samples
+sgn_1394,foydali_mehnat,полезный_труд,mahalla,махалля,isolated,no_samples
+sgn_1395,fuqaro,гражданин,mahalla,махалля,isolated,no_samples
+sgn_1396,gamxorlik,забота,mahalla,махалля,isolated,no_samples
+sgn_1397,garov,залог,mahalla,махалля,isolated,no_samples
+sgn_1398,gozal_muhit,красивая_среда,mahalla,махалля,isolated,no_samples
+sgn_1399,gurur,гордость,mahalla,махалля,isolated,no_samples
+sgn_1400,guzar,гузар_(квартал),mahalla,махалля,isolated,no_samples
+sgn_1401,hamjihatlik,сплочённость,mahalla,махалля,isolated,no_samples
+sgn_1402,hashar,хашар_(коллективный_труд),mahalla,махалля,isolated,no_samples
+sgn_1403,hovli_supurish,уборка_двора,mahalla,махалля,isolated,no_samples
+sgn_1404,hudud,территория,mahalla,махалля,isolated,no_samples
+sgn_1405,ibrat,пример_(нравственный),mahalla,махалля,isolated,no_samples
+sgn_1406,ijodkorlik,творчество,mahalla,махалля,isolated,no_samples
+sgn_1407,ijtimoiy_hayot,социальная_жизнь,mahalla,махалля,isolated,no_samples
+sgn_1408,ijtimoiy_xodim,социальный_работник,mahalla,махалля,isolated,no_samples
+sgn_1409,ishtirok,участие,mahalla,махалля,isolated,no_samples
+sgn_1410,javobgarlik,ответственность,mahalla,махалля,isolated,no_samples
+sgn_1411,jonkuyar,преданный,mahalla,махалля,isolated,no_samples
+sgn_1412,kam_taminlangan_oila,малообеспеченная_семья,mahalla,махалля,isolated,no_samples
+sgn_1413,katta-kichik,старые_и_молодые,mahalla,махалля,isolated,no_samples
+sgn_1414,kattalarga_hurmat,уважение_к_старшим,mahalla,махалля,isolated,no_samples
+sgn_1415,keksalar,пожилые_люди,mahalla,махалля,isolated,no_samples
+sgn_1416,kengash,совет,mahalla,махалля,isolated,no_samples
+sgn_1417,kocha,улица,mahalla,махалля,isolated,no_samples
+sgn_1418,komak,помощь,mahalla,махалля,isolated,no_samples
+sgn_1419,kongilli,доброволец,mahalla,махалля,isolated,no_samples
+sgn_1420,kop_qavatli_uy,многоэтажный_дом,mahalla,махалля,isolated,no_samples
+sgn_1421,labbay,слушаюсь_(отклик_на_зов),mahalla,махалля,isolated,no_samples
+sgn_1422,loy_gishtli_uy,глинобитный_дом,mahalla,махалля,isolated,no_samples
+sgn_1423,loyiha,проект,mahalla,махалля,isolated,no_samples
+sgn_1424,madaniy_tadbir,культурное_мероприятие,mahalla,махалля,isolated,no_samples
+sgn_1425,mahalla,махалля,mahalla,махалля,isolated,no_samples
+sgn_1426,mahalla_kengashi,совет_махалли,mahalla,махалля,isolated,no_samples
+sgn_1427,mahalla_oqsoqoli,аксакал_махалли,mahalla,махалля,isolated,no_samples
+sgn_1428,mahalla_raisi,председатель_махалли,mahalla,махалля,isolated,no_samples
+sgn_1429,mahalla_yettiligi,семёрка_махалли,mahalla,махалля,isolated,no_samples
+sgn_1430,mamuriy_javobgarlik,административная_ответственность,mahalla,махалля,isolated,no_samples
+sgn_1431,manaviyat,духовность,mahalla,махалля,isolated,no_samples
+sgn_1432,marosim,обряд_/_церемония,mahalla,махалля,isolated,no_samples
+sgn_1433,masjid,мечеть,mahalla,махалля,isolated,no_samples
+sgn_1434,maslahat,совет,mahalla,махалля,isolated,no_samples
+sgn_1435,maslahatgoy,консультант,mahalla,махалля,isolated,no_samples
+sgn_1436,mehnatsevarlik,трудолюбие,mahalla,махалля,isolated,no_samples
+sgn_1437,mehr,нежность,mahalla,махалля,isolated,no_samples
+sgn_1438,mehr-oqibat,любовь_и_привязанность,mahalla,махалля,isolated,no_samples
+sgn_1439,moddiy_yordam,материальная_помощь,mahalla,махалля,isolated,no_samples
+sgn_1440,muhtoj_oila,нуждающаяся_семья,mahalla,махалля,isolated,no_samples
+sgn_1441,nahor_oshi,утренний_плов_(нахорош),mahalla,махалля,isolated,no_samples
+sgn_1442,navroz_sayli,праздник_навруза,mahalla,махалля,isolated,no_samples
+sgn_1443,novvoyxona,пекарня,mahalla,махалля,isolated,no_samples
+sgn_1444,obodlik,благоустройство,mahalla,махалля,isolated,no_samples
+sgn_1445,obodonlashtirish,благоустройство,mahalla,махалля,isolated,no_samples
+sgn_1446,ornak,пример,mahalla,махалля,isolated,no_samples
+sgn_1447,ortoqlik,товарищество,mahalla,махалля,isolated,no_samples
+sgn_1448,ozaro_yordam,взаимопомощь,mahalla,махалля,isolated,no_samples
+sgn_1449,peshqadam,инициатор,mahalla,махалля,isolated,no_samples
+sgn_1450,pichoq_charxlash,точить_нож,mahalla,махалля,isolated,no_samples
+sgn_1451,piyoda_yurish,ходьба_пешком,mahalla,махалля,isolated,no_samples
+sgn_1452,profilaktika_inspektori,инспектор_по_профилактике,mahalla,махалля,isolated,no_samples
+sgn_1453,qadrdon,близкий_человек,mahalla,махалля,isolated,no_samples
+sgn_1454,qarindosh-urug,родственники,mahalla,махалля,isolated,no_samples
+sgn_1455,qariyalar,пожилые_люди,mahalla,махалля,isolated,no_samples
+sgn_1456,qishloq,кишлак_(деревня),mahalla,махалля,isolated,no_samples
+sgn_1457,qoshni,сосед,mahalla,махалля,isolated,no_samples
+sgn_1458,qurilish,строительство,mahalla,махалля,isolated,no_samples
+sgn_1459,rais,председатель,mahalla,махалля,isolated,no_samples
+sgn_1460,rayhon_hidi,аромат_базилика,mahalla,махалля,isolated,no_samples
+sgn_1461,rivojlanish,развитие,mahalla,махалля,isolated,no_samples
+sgn_1462,ruxsat,разрешение,mahalla,махалля,isolated,no_samples
+sgn_1463,sadoqat,преданность,mahalla,махалля,isolated,no_samples
+sgn_1464,salomlashish,приветствие,mahalla,махалля,isolated,no_samples
+sgn_1465,saxovat,щедрость,mahalla,махалля,isolated,no_samples
+sgn_1466,sayl,прогулка_/_гулянье,mahalla,махалля,isolated,no_samples
+sgn_1467,shiypon,навес,mahalla,махалля,isolated,no_samples
+sgn_1468,soliq_xodimi,налоговый_работник,mahalla,махалля,isolated,no_samples
+sgn_1469,soy,ручей,mahalla,махалля,isolated,no_samples
+sgn_1470,sport_maydonchasi,спортивная_площадка,mahalla,махалля,isolated,no_samples
+sgn_1471,suhbat,беседа,mahalla,махалля,isolated,no_samples
+sgn_1472,tadbir,мероприятие,mahalla,махалля,isolated,no_samples
+sgn_1473,taraqqiyot,прогресс,mahalla,махалля,isolated,no_samples
+sgn_1474,tashkiliy_ishlar,организационные_дела,mahalla,махалля,isolated,no_samples
+sgn_1475,tashrif,визит,mahalla,махалля,isolated,no_samples
+sgn_1476,temir_daftar,железный_реестр,mahalla,махалля,isolated,no_samples
+sgn_1477,tomorqa,огород,mahalla,махалля,isolated,no_samples
+sgn_1478,toy,торжество_/_свадьба,mahalla,махалля,isolated,no_samples
+sgn_1479,tozalik,чистота,mahalla,махалля,isolated,no_samples
+sgn_1480,turar_joy_majmuasi,жилой_комплекс,mahalla,махалля,isolated,no_samples
+sgn_1481,ustuvorlik,приоритет,mahalla,махалля,isolated,no_samples
+sgn_1482,uy-joy,жильё,mahalla,махалля,isolated,no_samples
+sgn_1483,uygunlik,гармония,mahalla,махалля,isolated,no_samples
+sgn_1484,uzviylik,преемственность,mahalla,махалля,isolated,no_samples
+sgn_1485,xayriya,благотворительность,mahalla,махалля,isolated,no_samples
+sgn_1486,xonadon,домохозяйство,mahalla,махалля,isolated,no_samples
+sgn_1487,xotin-qizlar_faoli,активистка_(женщина),mahalla,махалля,isolated,no_samples
+sgn_1488,yashash_manzili,место_проживания,mahalla,махалля,isolated,no_samples
+sgn_1489,yigin,собрание,mahalla,махалля,isolated,no_samples
+sgn_1490,yordam,помощь,mahalla,махалля,isolated,no_samples
+sgn_1491,yoshlar_daftari,молодёжный_реестр,mahalla,махалля,isolated,no_samples
+sgn_1492,yoshlar_yetakchisi,лидер_молодёжи,mahalla,махалля,isolated,no_samples
+sgn_1493,bant,бант,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1494,beret,берет,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1495,binafsha,фиолетовый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1496,binafsharang,фиолетовый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1497,botinka,ботинки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1498,dazmollamoq,гладить,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1499,etik,сапоги,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1500,futbolka,футболка,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1501,galoshlar,галоши,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1502,galstuk,галстук,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1503,ichki_kiyim,бельё,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1504,ichki_shim,трусы,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1505,jigarrang,коричневый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1506,kamar,пояс,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1507,kepka,кепка,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1508,kiyib_ko'rish,примерка,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1509,kiyim,одежда,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1510,ko'k,голубой,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1511,ko'ylak,платье,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1512,kofta,кофта,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1513,kok_rang,синий,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1514,kombinezon,комбинация,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1515,kostyum,костюм,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1516,krossovka,кроссовки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1517,krем_rang,бежевый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1518,kulrang,серый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1519,kumush,серебряный,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1520,kurta,куртка,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1521,mo'ynali_palto,шуба,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1522,moviy,голубые,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1523,moviy_rang,голубой,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1524,och,светлый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1525,oltin,золотой,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1526,oq,белый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1527,oq_rang,белый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1528,osib_qo'ymoq,вешать,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1529,ozoda,аккуратно,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1530,palto,пальто,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1531,panama_shlyapa,панама,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1532,paypoq,носки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1533,poshnali_tufli,каблук,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1534,poyabzal,обувь,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1535,pulover,пуловер,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1536,pushti,розовый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1537,qaymoqrang,кремовый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1538,qisqa,короткий,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1539,qizil,красный,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1540,qizil-sariq,рыжий,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1541,qo'lqop,перчатки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1542,qora,чёрный,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1543,rang,цвет,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1544,ro'mol,платок_головной,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1545,sandal,босоножки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1546,sarafan,сарафан,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1547,sariq,жёлтый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1548,shalvar,шаровары,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1549,sharf,шарф,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1550,shim,брюки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1551,shimgir,подтяжки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1552,shippak,тапочки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1553,shlyapa,шляпа,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1554,shortlar,шорты,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1555,suzish_kostyumi,купальник,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1556,sviter,свитер,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1557,taban,подошва,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1558,taytlar,рейтузы,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1559,tikmoq,шить,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1560,to'q_sariq,оранжевый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1561,to'qimoq,вязать,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1562,toq,тёмный,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1563,tor,тесно,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1564,tozalamoq,чистить,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1565,tufli,туфли,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1566,uzun,длинный,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1567,valenki,валенки,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1568,xira,тусклый,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1569,yaltiroq_rang,блестящий,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1570,yamoqlamoq,штопать,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1571,yashil,зелёный,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1572,yirtmoq,рвать,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1573,yorqin,яркий,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1574,yubka,юбка,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1575,yuvmoq,стирать,kiyim,одежда_обувь._цвета,isolated,no_samples
+sgn_1578,besh_so'm,пять_рублей,kerak_emas,не_нужно,isolated,no_samples
+sgn_1579,bir_dona,одна_штука,kerak_emas,не_нужно,isolated,no_samples
+sgn_1580,bir_kilogramm,один_килограмм,kerak_emas,не_нужно,isolated,no_samples
+sgn_1581,bir_ming,одна_тысяча,kerak_emas,не_нужно,isolated,no_samples
+sgn_1582,bir_so'm,один_рубль,kerak_emas,не_нужно,isolated,no_samples
+sgn_1586,chilangar,слесарь,kerak_emas,не_нужно,isolated,no_samples
+sgn_1588,cho'pon,пастух,kerak_emas,не_нужно,isolated,no_samples
+sgn_1601,ikki_so'm,два_рубля,kerak_emas,не_нужно,isolated,no_samples
+sgn_1612,marshal,маршал,kerak_emas,не_нужно,isolated,no_samples
+sgn_1614,mulk,собственность,kerak_emas,не_нужно,isolated,no_samples
+sgn_1636,tokar,токарь,kerak_emas,не_нужно,isolated,no_samples
+sgn_1638,uch_ming,три_тысячи,kerak_emas,не_нужно,isolated,no_samples
+sgn_1639,uch_so'm,три_рубля,kerak_emas,не_нужно,isolated,no_samples
+sgn_1652,burga,блоха,kerak_emas,не_нужно,isolated,no_samples
+sgn_1653,buyvol,буйвол,kerak_emas,не_нужно,isolated,no_samples
+sgn_1668,ini,нора,kerak_emas,не_нужно,isolated,no_samples
+sgn_1672,kana,клоп,kerak_emas,не_нужно,isolated,no_samples
+sgn_1690,quртча,гусеница,kerak_emas,не_нужно,isolated,no_samples
+sgn_1703,ahmoq,бестолковый,kerak_emas,не_нужно,isolated,no_samples
+sgn_1704,ahmoqona,дурной,kerak_emas,не_нужно,isolated,no_samples
+sgn_1706,aldanmoq,обманываться,kerak_emas,не_нужно,isolated,no_samples
+sgn_1712,chizmoq,рисовать,kerak_emas,не_нужно,isolated,no_samples
+sgn_1713,diqqat_jamlash,сосредоточенность,kerak_emas,не_нужно,isolated,no_samples
+sgn_1714,eslamoq,вспомнить,kerak_emas,не_нужно,isolated,no_samples
+sgn_1715,eslatmoq,напомнить,kerak_emas,не_нужно,isolated,no_samples
+sgn_1716,fikr,мнение,kerak_emas,не_нужно,isolated,no_samples
+sgn_1719,gumon,подозрение,kerak_emas,не_нужно,isolated,no_samples
+sgn_1726,norozilik_bildirmoq,протестовать,kerak_emas,не_нужно,isolated,no_samples
+sgn_1744,tushuntirmoq,объяснять,kerak_emas,не_нужно,isolated,no_samples
+sgn_1753,albaniya,албания,joy_nomlari,места_названия,isolated,no_samples
+sgn_1761,chexiya,чехия,joy_nomlari,места_названия,isolated,no_samples
+sgn_1762,daniya,дания,joy_nomlari,места_названия,isolated,no_samples
+sgn_1766,finlyandiya,финляндия,joy_nomlari,места_названия,isolated,no_samples
+sgn_1773,hukumat,правительство,joy_nomlari,места_названия,isolated,no_samples
+sgn_1779,mamlakat,страна,joy_nomlari,места_названия,isolated,no_samples
+sgn_1782,norvegiya,норвегия,joy_nomlari,места_названия,isolated,no_samples
+sgn_1784,parlament,парламент,kerak_emas,не_нужно,isolated,no_samples
+sgn_1797,vengriya,венгрия,joy_nomlari,места_названия,isolated,no_samples
+sgn_1804,yugoslaviya,югославия,kerak_emas,не_нужно,isolated,no_samples
+sgn_1817,halok_bo'lmoq,погибнуть,kerak_emas,не_нужно,isolated,no_samples
+sgn_1820,hiyla_ishlatmoq,изворачиваться,kerak_emas,не_нужно,isolated,no_samples
+sgn_1822,hukm,приговор,kerak_emas,не_нужно,isolated,no_samples
+sgn_1824,jabrlanuvchi,пострадавший,kerak_emas,не_нужно,isolated,no_samples
+sgn_1827,konvoy,конвой,kerak_emas,не_нужно,isolated,no_samples
+sgn_1828,musodara,конфискация,kerak_emas,не_нужно,isolated,no_samples
+sgn_1853,zo'rlik,изнасилование,kerak_emas,не_нужно,isolated,no_samples
+sgn_1856,boku,баку,joy_nomlari,места_названия,isolated,no_samples
+sgn_1857,chelyabinsk,челябинск,kerak_emas,не_нужно,isolated,no_samples
+sgn_1860,elektrichka,электричка,kerak_emas,не_нужно,isolated,no_samples
+sgn_1861,estoniya,эстония,kerak_emas,не_нужно,isolated,no_samples
+sgn_1865,kater,катер,kerak_emas,не_нужно,isolated,no_samples
+sgn_1866,kiev,киев,kerak_emas,не_нужно,isolated,no_samples
+sgn_1867,kishinyov,кишинёв,kerak_emas,не_нужно,isolated,no_samples
+sgn_1869,latviya,латвия,kerak_emas,не_нужно,isolated,no_samples
+sgn_1870,litva,литва,kerak_emas,не_нужно,isolated,no_samples
+sgn_1872,minsk,минск,kerak_emas,не_нужно,isolated,no_samples
+sgn_1873,moldaviya,молдавия,kerak_emas,не_нужно,isolated,no_samples
+sgn_1877,odessa,одесса,kerak_emas,не_нужно,isolated,no_samples
+sgn_1880,perm,пермь,kerak_emas,не_нужно,isolated,no_samples
+sgn_1882,riga,рига,kerak_emas,не_нужно,isolated,no_samples
+sgn_1883,ryazan,рязань,kerak_emas,не_нужно,isolated,no_samples
+sgn_1884,ryukzak,рюкзак,kerak_emas,не_нужно,isolated,no_samples
+sgn_1889,sibir,сибирь,kerak_emas,не_нужно,isolated,no_samples
+sgn_1890,tallin,таллин,kerak_emas,не_нужно,isolated,no_samples
+sgn_1891,tambov,тамбов,kerak_emas,не_нужно,isolated,no_samples
+sgn_1895,tula,тула,kerak_emas,не_нужно,isolated,no_samples
+sgn_1896,turizm,туризм,kerak_emas,не_нужно,isolated,no_samples
+sgn_1898,vilnyus,вильнюс,kerak_emas,не_нужно,isolated,no_samples
+sgn_1900,yakutiya,якутия,kerak_emas,не_нужно,isolated,no_samples
+sgn_1901,yaxta,яхта,kerak_emas,не_нужно,isolated,no_samples
+sgn_1902,apelsin,апельсин,o'simliklar,растения,isolated,no_samples
+sgn_1903,archa,ель,o'simliklar,растения,isolated,no_samples
+sgn_1904,banan,банан,o'simliklar,растения,isolated,no_samples
+sgn_1905,barglar,листья,o'simliklar,растения,isolated,no_samples
+sgn_1906,bodring,огурец,o'simliklar,растения,isolated,no_samples
+sgn_1907,but,куст,o'simliklar,растения,isolated,no_samples
+sgn_1908,daraxt,дерево,o'simliklar,растения,isolated,no_samples
+sgn_1910,gilos,вишня,o'simliklar,растения,isolated,no_samples
+sgn_1911,gul,цветок,o'simliklar,растения,isolated,no_samples
+sgn_1914,karam,капуста,o'simliklar,растения,isolated,no_samples
+sgn_1915,kartoshka,картофель,o'simliklar,растения,isolated,no_samples
+sgn_1916,lavlagi,свёкла,o'simliklar,растения,isolated,no_samples
+sgn_1917,limon,лимон,o'simliklar,растения,isolated,no_samples
+sgn_1918,makkajo'xori,кукуруза,o'simliklar,растения,isolated,no_samples
+sgn_1920,maydanoz,петрушка,o'simliklar,растения,isolated,no_samples
+sgn_1921,mevalar,фрукты,o'simliklar,растения,isolated,no_samples
+sgn_1922,no'xat,горох,o'simliklar,растения,isolated,no_samples
+sgn_1923,nok,груша,o'simliklar,растения,isolated,no_samples
+sgn_1924,nordon,кислый,kerak_emas,не_нужно,isolated,no_samples
+sgn_1925,o'rmon,лес,o'simliklar,растения,isolated,no_samples
+sgn_1926,o't,трава,o'simliklar,растения,isolated,no_samples
+sgn_1927,olcha,слива,o'simliklar,растения,isolated,no_samples
+sgn_1928,olma,яблоко,o'simliklar,растения,isolated,no_samples
+sgn_1929,oshqovoq,тыква,o'simliklar,растения,isolated,no_samples
+sgn_1930,piyoz,лук,o'simliklar,растения,isolated,no_samples
+sgn_1931,pomidor,помидор,o'simliklar,растения,isolated,no_samples
+sgn_1932,poya,стебель,o'simliklar,растения,isolated,no_samples
+sgn_1933,qayin_daraxti,берёза,o'simliklar,растения,isolated,no_samples
+sgn_1934,qo'ziqorin,грибы,o'simliklar,растения,isolated,no_samples
+sgn_1935,qovoq,кабачок,o'simliklar,растения,isolated,no_samples
+sgn_1936,qovun,дыня,o'simliklar,растения,isolated,no_samples
+sgn_1937,rediska,редиска,o'simliklar,растения,isolated,no_samples
+sgn_1938,rezavorlar,ягоды,o'simliklar,растения,isolated,no_samples
+sgn_1939,sabzavotlar,овощи,o'simliklar,растения,isolated,no_samples
+sgn_1940,sabzi,морковь,o'simliklar,растения,isolated,no_samples
+sgn_1941,sarimsoq,чеснок,o'simliklar,растения,isolated,no_samples
+sgn_1942,shaftoli,персик,o'simliklar,растения,isolated,no_samples
+sgn_1943,sholg'om,репа,o'simliklar,растения,isolated,no_samples
+sgn_1944,shoxlar,ветки,o'simliklar,растения,isolated,no_samples
+sgn_1945,tarvuz,арбуз,o'simliklar,растения,isolated,no_samples
+sgn_1947,turp,редька,o'simliklar,растения,isolated,no_samples
+sgn_1948,urug',семечки,o'simliklar,растения,isolated,no_samples
+sgn_1949,uzum,виноград,o'simliklar,растения,isolated,no_samples
+sgn_1951,yong'oq,орехи,o'simliklar,растения,isolated,no_samples
+sgn_1983,ajrim,определение_суда,hujjatlar,документы,isolated,no_samples
+sgn_1987,apostil,апостиль,hujjatlar,документы,isolated,no_samples
+sgn_1995,ayoz,мороз,tabiat,природа_времена_года,isolated,no_samples
+sgn_1996,botqoq,болото,tabiat,природа_времена_года,isolated,no_samples
+sgn_1997,bulut,облако,tabiat,природа_времена_года,isolated,no_samples
+sgn_1998,bulutli,туча,tabiat,природа_времена_года,isolated,no_samples
+sgn_1999,chang,пыль,tabiat,природа_времена_года,isolated,no_samples
+sgn_2000,chaqmoq,молния,tabiat,природа_времена_года,isolated,no_samples
+sgn_2001,daryo,река,tabiat,природа_времена_года,isolated,no_samples
+sgn_2002,dengiz,море,tabiat,природа_времена_года,isolated,no_samples
+sgn_2003,do'l,град,tabiat,природа_времена_года,isolated,no_samples
+sgn_2004,ekologiya,экология,tabiat,природа_времена_года,isolated,no_samples
+sgn_2005,ho'l,мокрый,tabiat,природа_времена_года,isolated,no_samples
+sgn_2006,kamalak,радуга,tabiat,природа_времена_года,isolated,no_samples
+sgn_2007,ko'l,озеро,tabiat,природа_времена_года,isolated,no_samples
+sgn_2008,koinot,космос,tabiat,природа_времена_года,isolated,no_samples
+sgn_2009,loy,глина,tabiat,природа_времена_года,isolated,no_samples
+sgn_2010,momaqaldiroq,гром,tabiat,природа_времена_года,isolated,no_samples
+sgn_2011,muz,лёд,tabiat,природа_времена_года,isolated,no_samples
+sgn_2012,osmon,небо,tabiat,природа_времена_года,isolated,no_samples
+sgn_2013,qor,снег,tabiat,природа_времена_года,isolated,no_samples
+sgn_2014,qoyalar,скалы,tabiat,природа_времена_года,isolated,no_samples
+sgn_2015,qum,песок,tabiat,природа_времена_года,isolated,no_samples
+sgn_2016,quruq,сухой,tabiat,природа_времена_года,isolated,no_samples
+sgn_2017,quyosh,солнце,tabiat,природа_времена_года,isolated,no_samples
+sgn_2018,shamol,ветер,tabiat,природа_времена_года,isolated,no_samples
+sgn_2019,suv,вода,tabiat,природа_времена_года,isolated,no_samples
+sgn_2020,tabiat,природа,tabiat,природа_времена_года,isolated,no_samples
+sgn_2021,tog'lar,горы,tabiat,природа_времена_года,isolated,no_samples
+sgn_2022,tosh,камень,tabiat,природа_времена_года,isolated,no_samples
+sgn_2023,tuproq,земля,tabiat,природа_времена_года,isolated,no_samples
+sgn_2024,yer,земля,tabiat,природа_времена_года,isolated,no_samples
+sgn_2025,yomg'ir,дождь,tabiat,природа_времена_года,isolated,no_samples
+sgn_2026,yomg'ircha,дождик,tabiat,природа_времена_года,isolated,no_samples
+sgn_2027,yulduz,звезда,tabiat,природа_времена_года,isolated,no_samples
+sgn_2028,yulduzlar,звёзды,tabiat,природа_времена_года,isolated,no_samples

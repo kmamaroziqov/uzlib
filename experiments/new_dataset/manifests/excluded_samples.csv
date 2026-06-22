@@ -1,0 +1,5 @@
+sample_id,sign_id,signer_id,rep_id,video_path,reason
+uzsl_03241,sgn_0652,s02,r00,videos/s02_sgn_0652_r00.mp4,missing_sign_metadata
+uzsl_03242,sgn_0652,s02,r01,videos/s02_sgn_0652_r01.mp4,missing_sign_metadata
+uzsl_03243,sgn_0652,s02,r02,videos/s02_sgn_0652_r02.mp4,missing_sign_metadata
+uzsl_03244,sgn_0652,s02,r03,videos/s02_sgn_0652_r03.mp4,missing_sign_metadata

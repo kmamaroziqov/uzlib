@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+pose_venv310/
+
+# Data — never commit pose files or videos
+uzsl_data/
+uzsl_data_local/
+*.pose
+*.mp4
+*.avi
+
+# Model checkpoints (large binaries — share via release or direct copy)
+artifacts/*/checkpoint.pt
+artifacts/*/checkpoint_best.pt
+artifacts/loso_*/
+
+# Keep experiment logs and metrics (small, useful)
+!artifacts/*/train.log
+!artifacts/*/metrics.json
+!artifacts/*/config.json
+!artifacts/*/labels.json
+
+# Slovo pretrain encoder — large; copy manually to the remote machine
+artifacts/slovo_pretrain/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+nohup.out
+
+# Temporary / scratch
+*.tmp
+*.bak
