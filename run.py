@@ -46,13 +46,44 @@ def _detect_vram_gb() -> float:
 VRAM = _detect_vram_gb()
 
 def _base_capacity() -> list[str]:
-    """Scale model size and batch to available VRAM."""
-    if VRAM >= 20:
-        return ["--hidden-dim", "384", "--batch-size", "256", "--compile"]
+    """Scale model size, batch, and workers to available VRAM.
+
+    RTX 5090 / A100 / H100 (>=24 GB):
+      hidden 768, 6 layers, 8 heads → ~22M params, fully occupies 32 GB at batch 1024.
+      8 data-loading workers keep the GPU fed between batches.
+      reduce-overhead compile mode uses CUDA graphs — best throughput for fixed batch sizes.
+
+    Mid-range (8-24 GB):
+      hidden 384, 4 workers.
+
+    Low VRAM / CPU:
+      hidden 192, no workers (in-memory cache is most efficient single-threaded).
+    """
+    if VRAM >= 24:
+        return [
+            "--hidden-dim", "768", "--n-layers", "6", "--n-heads", "8",
+            "--batch-size", "1024", "--num-workers", "8",
+            "--compile", "--compile-mode", "reduce-overhead",
+        ]
     elif VRAM >= 8:
-        return ["--hidden-dim", "256", "--batch-size", "128"]
+        return [
+            "--hidden-dim", "384", "--n-layers", "4", "--n-heads", "4",
+            "--batch-size", "256", "--num-workers", "4",
+            "--compile", "--compile-mode", "reduce-overhead",
+        ]
     else:
         return ["--hidden-dim", "192", "--batch-size", "32"]
+
+
+def _lr_flags() -> list[str]:
+    """Scale peak LR with batch size (sqrt scaling rule for AdamW + OneCycleLR)."""
+    if VRAM >= 24:
+        return ["--lr", "2e-3"]   # batch 1024 vs default 256 → sqrt(4)× ≈ 2×
+    elif VRAM >= 8:
+        return ["--lr", "1e-3"]
+    else:
+        return ["--lr", "5e-4"]
+
 
 def _device_flags() -> list[str]:
     return ["--amp", "--device", "cuda"] if VRAM > 0 else ["--device", "cpu"]
@@ -64,9 +95,9 @@ BASE = [
     "--data-dir", str(DATA_DIR),
     "--wrist-norm", "--signer-balanced-sampling",
     "--epochs", "120",
-    "--n-layers", "4", "--n-heads", "4",
     "--no-progress",
     *_base_capacity(),
+    *_lr_flags(),
     *_device_flags(),
 ]
 

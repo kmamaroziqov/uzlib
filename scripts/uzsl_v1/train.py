@@ -495,10 +495,12 @@ def train(args: argparse.Namespace) -> dict[str, object]:
             print(json.dumps({"encoder_frozen_until_epoch": args.freeze_encoder_epochs}, ensure_ascii=False))
 
     model.to(device)
-    if args.compile and hasattr(torch, "compile"):
-        model = torch.compile(model)
     use_cuda = device.startswith("cuda")
     use_amp = args.amp and use_cuda
+    if use_cuda:
+        torch.backends.cudnn.benchmark = True
+    if args.compile and hasattr(torch, "compile"):
+        model = torch.compile(model, mode=args.compile_mode)
 
     signer_head = None
     grad_reverse = None
@@ -541,6 +543,7 @@ def train(args: argparse.Namespace) -> dict[str, object]:
         "collate_fn": collate_batch,
         "pin_memory": use_cuda,
         "persistent_workers": args.num_workers > 0,
+        **({"prefetch_factor": 4} if args.num_workers > 0 else {}),
     }
     if args.weighted_sampling or args.signer_balanced_sampling:
         class_counts = Counter(class_to_idx[row["sign_id"]] for row in train_ds.rows)
@@ -763,6 +766,7 @@ def main() -> None:
     parser.add_argument("--device", default="")
     parser.add_argument("--amp", action="store_true", help="Use CUDA automatic mixed precision when CUDA is available.")
     parser.add_argument("--compile", action="store_true", help="Use torch.compile when available.")
+    parser.add_argument("--compile-mode", default="reduce-overhead", choices=["default", "reduce-overhead", "max-autotune"], help="torch.compile mode. reduce-overhead uses CUDA graphs (best for training). max-autotune finds fastest kernels but compiles slowly (~5-10 min).")
     parser.add_argument("--no-weighted-sampling", dest="weighted_sampling", action="store_false", help="Disable class-balanced sampling.")
     parser.add_argument("--signer-balanced-sampling", action="store_true", help="Weight samples so each signer contributes equally, regardless of recording count.")
     parser.add_argument("--wrist-norm", action="store_true", help="Normalize each hand block relative to wrist position and hand span (removes arm-length bias).")
