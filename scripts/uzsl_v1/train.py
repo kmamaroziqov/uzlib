@@ -622,17 +622,21 @@ def train(args: argparse.Namespace) -> dict[str, object]:
                     loss = mixup_lam * loss_fn(logits, y) + (1.0 - mixup_lam) * loss_fn(logits, y[perm])
                 else:
                     loss = loss_fn(logits, y)
-                if signer_head is not None:
-                    # DANN-style lambda ramp keeps the reversed gradient from
-                    # destabilizing the encoder early in training.
-                    progress = global_step / total_steps
-                    grl_lambda = 2.0 / (1.0 + math.exp(-10.0 * progress)) - 1.0
+                if signer_head is not None and epoch > args.grl_warmup_epochs:
+                    # DANN-style lambda ramp. grl_lambda is bounded to [0, weight]
+                    # so the adversarial contribution never exceeds the weight cap
+                    # regardless of adv_loss magnitude — stable with large models.
+                    warmup_steps = max(1, args.grl_warmup_epochs * len(train_loader))
+                    post_warmup_steps = max(1, total_steps - warmup_steps)
+                    post_warmup_global = global_step - warmup_steps
+                    progress = max(0.0, post_warmup_global / post_warmup_steps)
+                    grl_lambda = args.signer_adversarial_weight * (2.0 / (1.0 + math.exp(-10.0 * progress)) - 1.0)
                     signer_logits = signer_head(grad_reverse(features, grl_lambda))
                     if perm is not None:
                         adv_loss = mixup_lam * signer_loss_fn(signer_logits, s) + (1.0 - mixup_lam) * signer_loss_fn(signer_logits, s[perm])
                     else:
                         adv_loss = signer_loss_fn(signer_logits, s)
-                    loss = loss + args.signer_adversarial_weight * adv_loss
+                    loss = loss + adv_loss
             scaler.scale(loss).backward()
             scaler.step(optimizer)
             scaler.update()
@@ -759,7 +763,8 @@ def main() -> None:
     parser.add_argument("--freeze-encoder-epochs", type=int, default=5, help="Freeze encoder for this many epochs after loading pretrained weights, then unfreeze at 1/10 LR.")
     parser.add_argument("--finetune-lr-scale", type=float, default=0.1, help="Peak LR multiplier after unfreezing a pretrained encoder.")
     parser.add_argument("--signer-adversarial", action="store_true", help="Add a gradient-reversal signer classifier for signer-invariant features.")
-    parser.add_argument("--signer-adversarial-weight", type=float, default=0.2)
+    parser.add_argument("--signer-adversarial-weight", type=float, default=0.2, help="GRL lambda ceiling. The adversarial loss is scaled to never exceed this fraction of the sign loss magnitude.")
+    parser.add_argument("--grl-warmup-epochs", type=int, default=15, help="Freeze the GRL head for this many epochs so the sign classifier warms up before adversarial training begins.")
     parser.add_argument("--num-workers", type=int, default=0, help="0 keeps the in-memory base-tensor cache in one process (recommended).")
     parser.add_argument("--cpu-threads", type=int, default=max(1, (os.cpu_count() or 2) - 1))
     parser.add_argument("--seed", type=int, default=13)

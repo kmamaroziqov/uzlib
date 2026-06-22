@@ -133,12 +133,19 @@ def cmd_e0() -> None:
 
 
 def cmd_e1() -> None:
-    """E1: + signer-adversarial gradient-reversal head (best cross-signer lever)."""
+    """E1: + signer-adversarial GRL, weight 0.02, warmup 15 epochs.
+
+    The GRL is silent for the first 15 epochs so the sign classifier warms up
+    before adversarial training begins. The lambda is bounded by the weight so
+    it never overwhelms the sign loss regardless of model size.
+    """
     run([
         *BASE,
         "--artifact-dir", "artifacts/e1_grl",
         "--split-column", "dev_split",
-        "--signer-adversarial", "--signer-adversarial-weight", "0.05",
+        "--signer-adversarial",
+        "--signer-adversarial-weight", "0.02",
+        "--grl-warmup-epochs", "15",
     ])
 
 
